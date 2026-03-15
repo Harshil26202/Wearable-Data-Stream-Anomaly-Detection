@@ -156,12 +156,11 @@ EOF
 
 ## Output
 
-All output is written to the `output/` directory (created automatically).
+### 2. Check the Outputs
 
-| File | Contents |
-|---|---|
-| `output/stream.log` | Timestamped `[DATA]` and `[ALERT]` entries for all users |
-| `output/system_report.png` | Time-series visualisation with anomaly markers |
+The pipeline streams formatted alerts to `stderr` and logs them systematically in `example_output/stream.log`.
+
+Upon termination (e.g., via `Ctrl+C`), a comprehensive visual report is generated at `example_output/system_report.png`.
 
 ### Sample log entries
 

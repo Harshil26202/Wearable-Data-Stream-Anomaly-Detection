@@ -1,0 +1,481 @@
+[WARMUP] Gathering physiological baseline for Aarav: 30/150 observations...
+[WARMUP] Gathering physiological baseline for Priya: 30/150 observations...
+[WARMUP] Gathering physiological baseline for Rohan: 30/150 observations...
+[WARMUP] Gathering physiological baseline for Aarav: 60/150 observations...
+[WARMUP] Gathering physiological baseline for Rohan: 60/150 observations...
+[WARMUP] Gathering physiological baseline for Priya: 60/150 observations...
+[WARMUP] Gathering physiological baseline for Aarav: 90/150 observations...
+[WARMUP] Gathering physiological baseline for Priya: 90/150 observations...
+[WARMUP] Gathering physiological baseline for Rohan: 90/150 observations...
+[WARMUP] Gathering physiological baseline for Aarav: 120/150 observations...
+[WARMUP] Gathering physiological baseline for Priya: 120/150 observations...
+[WARMUP] Gathering physiological baseline for Rohan: 120/150 observations...
+[WARMUP] Gathering physiological baseline for Aarav: 150/150 observations...
+[92m[READY][0m  IsolationForest Model fitted and monitoring Aarav live stream.
+[DATA]  2026-03-15T18:35:35Z | Aarav (M, age=34, region=north_plains) | HR=71.0 bpm | SpO2=97.9% | Temp=37.03C | Activity=rest
+[WARMUP] Gathering physiological baseline for Rohan: 150/150 observations...
+[DATA]  2026-03-15T18:35:37Z | Aarav (M, age=34, region=north_plains) | HR=69.2 bpm | SpO2=98.8% | Temp=37.04C | Activity=rest
+[92m[READY][0m  IsolationForest Model fitted and monitoring Rohan live stream.
+[DATA]  2026-03-15T18:35:38Z | Rohan (M, age=22, region=highland) | HR=68.2 bpm | SpO2=97.2% | Temp=36.52C | Activity=rest
+[WARMUP] Gathering physiological baseline for Priya: 150/150 observations...
+[DATA]  2026-03-15T18:35:39Z | Rohan (M, age=22, region=highland) | HR=67.0 bpm | SpO2=97.3% | Temp=36.49C | Activity=rest
+[DATA]  2026-03-15T18:35:39Z | Aarav (M, age=34, region=north_plains) | HR=67.8 bpm | SpO2=97.8% | Temp=36.89C | Activity=rest
+[DATA]  2026-03-15T18:35:40Z | Rohan (M, age=22, region=highland) | HR=66.6 bpm | SpO2=97.1% | Temp=36.81C | Activity=rest
+[92m[READY][0m  IsolationForest Model fitted and monitoring Priya live stream.
+[DATA]  2026-03-15T18:35:40Z | Priya (F, age=52, region=coastal_south) | HR=131.7 bpm | SpO2=97.1% | Temp=37.10C | Activity=run
+[DATA]  2026-03-15T18:35:41Z | Aarav (M, age=34, region=north_plains) | HR=73.7 bpm | SpO2=98.3% | Temp=37.01C | Activity=rest
+[DATA]  2026-03-15T18:35:42Z | Rohan (M, age=22, region=highland) | HR=64.7 bpm | SpO2=97.1% | Temp=36.49C | Activity=rest
+[ALERT] 2026-03-15T18:35:42Z | Priya (F, age=52, region=coastal_south) | HR=124.5 bpm | SpO2=97.1% | Temp=36.89C | Activity=run | Score=-0.62505 | Drivers: activity_encoded(-1.080), heart_rate(-0.934), hr_reserve_pct(-0.832) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:35:42Z | Aarav (M, age=34, region=north_plains) | HR=78.8 bpm | SpO2=98.3% | Temp=36.97C | Activity=rest
+[DATA]  2026-03-15T18:35:43Z | Rohan (M, age=22, region=highland) | HR=65.7 bpm | SpO2=96.9% | Temp=36.68C | Activity=rest
+[DATA]  2026-03-15T18:35:44Z | Priya (F, age=52, region=coastal_south) | HR=104.6 bpm | SpO2=98.0% | Temp=37.02C | Activity=walk
+[DATA]  2026-03-15T18:35:44Z | Aarav (M, age=34, region=north_plains) | HR=93.1 bpm | SpO2=97.7% | Temp=36.85C | Activity=walk
+[DATA]  2026-03-15T18:35:45Z | Priya (F, age=52, region=coastal_south) | HR=106.6 bpm | SpO2=97.8% | Temp=37.02C | Activity=walk
+[DATA]  2026-03-15T18:35:45Z | Rohan (M, age=22, region=highland) | HR=67.3 bpm | SpO2=97.9% | Temp=36.70C | Activity=rest
+[DATA]  2026-03-15T18:35:45Z | Aarav (M, age=34, region=north_plains) | HR=78.4 bpm | SpO2=97.5% | Temp=37.00C | Activity=rest
+[DATA]  2026-03-15T18:35:46Z | Priya (F, age=52, region=coastal_south) | HR=116.0 bpm | SpO2=97.5% | Temp=37.13C | Activity=walk
+[DATA]  2026-03-15T18:35:47Z | Rohan (M, age=22, region=highland) | HR=78.2 bpm | SpO2=96.8% | Temp=36.60C | Activity=rest
+[DATA]  2026-03-15T18:35:47Z | Aarav (M, age=34, region=north_plains) | HR=67.9 bpm | SpO2=98.5% | Temp=36.96C | Activity=rest
+[DATA]  2026-03-15T18:35:48Z | Priya (F, age=52, region=coastal_south) | HR=78.7 bpm | SpO2=98.4% | Temp=37.03C | Activity=rest
+[DATA]  2026-03-15T18:35:48Z | Aarav (M, age=34, region=north_plains) | HR=73.9 bpm | SpO2=97.5% | Temp=37.04C | Activity=rest
+[ALERT] 2026-03-15T18:35:48Z | Rohan (M, age=22, region=highland) | HR=79.4 bpm | SpO2=97.0% | Temp=36.36C | Activity=rest | Score=-0.59185 | Drivers: body_temperature(-1.281), temp_deviation(-1.181), rolling_hr_mean(-1.061) | [93mInsight: Erratic heart rate pattern detected. Take a moment to relax and breathe steadily.[0m
+[DATA]  2026-03-15T18:35:49Z | Priya (F, age=52, region=coastal_south) | HR=112.9 bpm | SpO2=86.8% | Temp=37.14C | Activity=walk
+[DATA]  2026-03-15T18:35:51Z | Priya (F, age=52, region=coastal_south) | HR=81.6 bpm | SpO2=97.5% | Temp=37.15C | Activity=rest
+[DATA]  2026-03-15T18:35:50Z | Rohan (M, age=22, region=highland) | HR=76.3 bpm | SpO2=96.9% | Temp=36.59C | Activity=rest
+[DATA]  2026-03-15T18:35:50Z | Aarav (M, age=34, region=north_plains) | HR=67.7 bpm | SpO2=97.8% | Temp=36.94C | Activity=rest
+[DATA]  2026-03-15T18:35:52Z | Rohan (M, age=22, region=highland) | HR=102.7 bpm | SpO2=97.5% | Temp=36.74C | Activity=walk
+[DATA]  2026-03-15T18:35:52Z | Priya (F, age=52, region=coastal_south) | HR=80.6 bpm | SpO2=97.5% | Temp=37.11C | Activity=rest
+[DATA]  2026-03-15T18:35:52Z | Aarav (M, age=34, region=north_plains) | HR=75.1 bpm | SpO2=98.5% | Temp=36.93C | Activity=rest
+[DATA]  2026-03-15T18:35:53Z | Priya (F, age=52, region=coastal_south) | HR=82.0 bpm | SpO2=98.3% | Temp=36.99C | Activity=rest
+[DATA]  2026-03-15T18:35:53Z | Rohan (M, age=22, region=highland) | HR=98.3 bpm | SpO2=97.0% | Temp=36.46C | Activity=walk
+[DATA]  2026-03-15T18:35:54Z | Aarav (M, age=34, region=north_plains) | HR=64.1 bpm | SpO2=98.1% | Temp=37.14C | Activity=rest
+[DATA]  2026-03-15T18:35:55Z | Priya (F, age=52, region=coastal_south) | HR=86.3 bpm | SpO2=98.2% | Temp=37.13C | Activity=rest
+[ALERT] 2026-03-15T18:35:55Z | Rohan (M, age=22, region=highland) | HR=103.4 bpm | SpO2=96.0% | Temp=36.56C | Activity=run | Score=-0.58305 | Drivers: activity_encoded(-1.095), rolling_hr_mean(-0.665), spo2(-0.613) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:35:55Z | Aarav (M, age=34, region=north_plains) | HR=66.5 bpm | SpO2=97.6% | Temp=36.98C | Activity=rest
+[ALERT] 2026-03-15T18:35:56Z | Rohan (M, age=22, region=highland) | HR=129.3 bpm | SpO2=96.6% | Temp=36.57C | Activity=run | Score=-0.59976 | Drivers: activity_encoded(-1.170), hr_reserve_pct(-1.022), heart_rate(-0.909) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:35:56Z | Priya (F, age=52, region=coastal_south) | HR=78.5 bpm | SpO2=98.0% | Temp=36.95C | Activity=rest
+[DATA]  2026-03-15T18:35:57Z | Aarav (M, age=34, region=north_plains) | HR=71.3 bpm | SpO2=97.9% | Temp=36.89C | Activity=rest
+[ALERT] 2026-03-15T18:35:57Z | Rohan (M, age=22, region=highland) | HR=128.9 bpm | SpO2=96.4% | Temp=36.62C | Activity=run | Score=-0.59091 | Drivers: activity_encoded(-1.098), hr_reserve_pct(-0.999), heart_rate(-0.838) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:35:58Z | Priya (F, age=52, region=coastal_south) | HR=78.6 bpm | SpO2=97.8% | Temp=37.10C | Activity=rest
+[DATA]  2026-03-15T18:35:59Z | Aarav (M, age=34, region=north_plains) | HR=70.3 bpm | SpO2=97.7% | Temp=36.60C | Activity=rest
+[ALERT] 2026-03-15T18:35:59Z | Rohan (M, age=22, region=highland) | HR=143.2 bpm | SpO2=96.6% | Temp=36.69C | Activity=run | Score=-0.62473 | Drivers: activity_encoded(-1.185), hr_reserve_pct(-1.022), heart_rate(-0.961) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:00Z | Priya (F, age=52, region=coastal_south) | HR=79.2 bpm | SpO2=97.7% | Temp=36.98C | Activity=rest
+[DATA]  2026-03-15T18:36:00Z | Aarav (M, age=34, region=north_plains) | HR=67.2 bpm | SpO2=98.6% | Temp=36.90C | Activity=rest
+[DATA]  2026-03-15T18:36:00Z | Rohan (M, age=22, region=highland) | HR=65.8 bpm | SpO2=97.2% | Temp=36.70C | Activity=rest
+[DATA]  2026-03-15T18:36:01Z | Priya (F, age=52, region=coastal_south) | HR=99.5 bpm | SpO2=97.4% | Temp=36.86C | Activity=walk
+[DATA]  2026-03-15T18:36:01Z | Aarav (M, age=34, region=north_plains) | HR=73.9 bpm | SpO2=98.0% | Temp=36.90C | Activity=rest
+[DATA]  2026-03-15T18:36:02Z | Rohan (M, age=22, region=highland) | HR=75.9 bpm | SpO2=96.9% | Temp=36.41C | Activity=rest
+[DATA]  2026-03-15T18:36:03Z | Priya (F, age=52, region=coastal_south) | HR=132.6 bpm | SpO2=97.1% | Temp=37.04C | Activity=run
+[DATA]  2026-03-15T18:36:03Z | Aarav (M, age=34, region=north_plains) | HR=76.2 bpm | SpO2=98.1% | Temp=36.85C | Activity=rest
+[DATA]  2026-03-15T18:36:04Z | Priya (F, age=52, region=coastal_south) | HR=99.7 bpm | SpO2=97.2% | Temp=36.94C | Activity=walk
+[DATA]  2026-03-15T18:36:04Z | Rohan (M, age=22, region=highland) | HR=77.6 bpm | SpO2=97.1% | Temp=36.59C | Activity=rest
+[DATA]  2026-03-15T18:36:04Z | Aarav (M, age=34, region=north_plains) | HR=74.2 bpm | SpO2=97.5% | Temp=36.87C | Activity=rest
+[ALERT] 2026-03-15T18:36:05Z | Priya (F, age=52, region=coastal_south) | HR=138.4 bpm | SpO2=97.4% | Temp=37.19C | Activity=run | Score=-0.61955 | Drivers: activity_encoded(-1.210), hr_reserve_pct(-1.059), heart_rate(-1.010) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:05Z | Rohan (M, age=22, region=highland) | HR=64.1 bpm | SpO2=97.3% | Temp=36.64C | Activity=rest
+[DATA]  2026-03-15T18:36:05Z | Aarav (M, age=34, region=north_plains) | HR=70.2 bpm | SpO2=98.2% | Temp=36.97C | Activity=rest
+[ALERT] 2026-03-15T18:36:06Z | Priya (F, age=52, region=coastal_south) | HR=147.2 bpm | SpO2=82.5% | Temp=36.99C | Activity=run | Score=-0.63018 | Drivers: heart_rate(-1.028), hr_reserve_pct(-0.994), activity_encoded(-0.948) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:36:07Z | Aarav (M, age=34, region=north_plains) | HR=124.2 bpm | SpO2=95.6% | Temp=39.57C | Activity=rest | Score=-0.69510 | Drivers: temp_deviation(-1.236), body_temperature(-1.100), spo2_drop(-0.952) | [93mInsight: CRITICAL: High fever and rapid heart rate detected while resting. Given your region's climate, this may indicate severe heat stress or infection. Cool down immediately, hydrate, and seek medical attention.[0m
+[DATA]  2026-03-15T18:36:07Z | Rohan (M, age=22, region=highland) | HR=69.7 bpm | SpO2=96.6% | Temp=36.80C | Activity=rest
+[DATA]  2026-03-15T18:36:07Z | Priya (F, age=52, region=coastal_south) | HR=110.7 bpm | SpO2=97.9% | Temp=37.14C | Activity=walk
+[ALERT] 2026-03-15T18:36:08Z | Aarav (M, age=34, region=north_plains) | HR=129.0 bpm | SpO2=92.5% | Temp=39.77C | Activity=rest | Score=-0.69672 | Drivers: temp_deviation(-1.195), body_temperature(-1.074), spo2_drop(-0.966) | [93mInsight: CRITICAL: High fever and rapid heart rate detected while resting. Given your region's climate, this may indicate severe heat stress or infection. Cool down immediately, hydrate, and seek medical attention.[0m
+[DATA]  2026-03-15T18:36:09Z | Priya (F, age=52, region=coastal_south) | HR=107.7 bpm | SpO2=97.0% | Temp=37.10C | Activity=walk
+[DATA]  2026-03-15T18:36:09Z | Rohan (M, age=22, region=highland) | HR=72.1 bpm | SpO2=96.9% | Temp=36.59C | Activity=rest
+[DATA]  2026-03-15T18:36:10Z | Aarav (M, age=34, region=north_plains) | HR=69.2 bpm | SpO2=97.8% | Temp=36.98C | Activity=rest
+[ALERT] 2026-03-15T18:36:10Z | Priya (F, age=52, region=coastal_south) | HR=95.4 bpm | SpO2=98.3% | Temp=37.09C | Activity=walk | Score=-0.59364 | Drivers: spo2_drop(-1.010), activity_encoded(-0.866), rolling_hr_mean(-0.575) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:10Z | Rohan (M, age=22, region=highland) | HR=72.7 bpm | SpO2=97.2% | Temp=36.54C | Activity=rest
+[DATA]  2026-03-15T18:36:11Z | Aarav (M, age=34, region=north_plains) | HR=70.4 bpm | SpO2=97.9% | Temp=37.05C | Activity=rest
+[ALERT] 2026-03-15T18:36:12Z | Priya (F, age=52, region=coastal_south) | HR=147.4 bpm | SpO2=97.3% | Temp=36.98C | Activity=run | Score=-0.63948 | Drivers: hr_reserve_pct(-1.213), activity_encoded(-1.181), heart_rate(-1.165) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:12Z | Rohan (M, age=22, region=highland) | HR=68.8 bpm | SpO2=97.2% | Temp=36.66C | Activity=rest
+[DATA]  2026-03-15T18:36:13Z | Aarav (M, age=34, region=north_plains) | HR=74.1 bpm | SpO2=98.2% | Temp=37.01C | Activity=rest
+[DATA]  2026-03-15T18:36:14Z | Aarav (M, age=34, region=north_plains) | HR=69.3 bpm | SpO2=98.0% | Temp=36.90C | Activity=rest
+[DATA]  2026-03-15T18:36:14Z | Rohan (M, age=22, region=highland) | HR=71.2 bpm | SpO2=97.0% | Temp=36.55C | Activity=rest
+[ALERT] 2026-03-15T18:36:14Z | Priya (F, age=52, region=coastal_south) | HR=138.2 bpm | SpO2=96.5% | Temp=36.97C | Activity=run | Score=-0.60468 | Drivers: activity_encoded(-0.920), heart_rate(-0.894), hr_reserve_pct(-0.840) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:15Z | Aarav (M, age=34, region=north_plains) | HR=67.0 bpm | SpO2=98.5% | Temp=37.06C | Activity=rest
+[DATA]  2026-03-15T18:36:15Z | Rohan (M, age=22, region=highland) | HR=105.2 bpm | SpO2=96.7% | Temp=36.76C | Activity=walk
+[ALERT] 2026-03-15T18:36:15Z | Priya (F, age=52, region=coastal_south) | HR=158.5 bpm | SpO2=96.7% | Temp=36.98C | Activity=run | Score=-0.65209 | Drivers: heart_rate(-1.279), hr_reserve_pct(-1.276), activity_encoded(-1.042) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:16Z | Aarav (M, age=34, region=north_plains) | HR=70.4 bpm | SpO2=98.1% | Temp=36.93C | Activity=rest
+[DATA]  2026-03-15T18:36:16Z | Rohan (M, age=22, region=highland) | HR=41.0 bpm | SpO2=96.4% | Temp=36.69C | Activity=walk
+[ALERT] 2026-03-15T18:36:17Z | Priya (F, age=52, region=coastal_south) | HR=143.4 bpm | SpO2=97.2% | Temp=37.01C | Activity=run | Score=-0.63762 | Drivers: activity_encoded(-1.155), hr_reserve_pct(-1.057), heart_rate(-1.015) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:17Z | Aarav (M, age=34, region=north_plains) | HR=72.5 bpm | SpO2=98.6% | Temp=36.96C | Activity=rest
+[DATA]  2026-03-15T18:36:18Z | Rohan (M, age=22, region=highland) | HR=99.7 bpm | SpO2=96.8% | Temp=36.56C | Activity=walk
+[ALERT] 2026-03-15T18:36:19Z | Priya (F, age=52, region=coastal_south) | HR=149.1 bpm | SpO2=96.7% | Temp=37.19C | Activity=run | Score=-0.66408 | Drivers: activity_encoded(-1.094), hr_reserve_pct(-1.056), heart_rate(-1.029) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:19Z | Aarav (M, age=34, region=north_plains) | HR=71.4 bpm | SpO2=97.6% | Temp=36.68C | Activity=rest
+[DATA]  2026-03-15T18:36:20Z | Rohan (M, age=22, region=highland) | HR=106.2 bpm | SpO2=97.1% | Temp=36.63C | Activity=walk
+[DATA]  2026-03-15T18:36:21Z | Aarav (M, age=34, region=north_plains) | HR=72.4 bpm | SpO2=98.1% | Temp=36.82C | Activity=rest
+[ALERT] 2026-03-15T18:36:21Z | Priya (F, age=52, region=coastal_south) | HR=142.0 bpm | SpO2=97.0% | Temp=37.12C | Activity=run | Score=-0.64164 | Drivers: activity_encoded(-1.119), hr_reserve_pct(-1.051), heart_rate(-0.939) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:22Z | Rohan (M, age=22, region=highland) | HR=73.9 bpm | SpO2=96.6% | Temp=36.79C | Activity=rest
+[DATA]  2026-03-15T18:36:22Z | Aarav (M, age=34, region=north_plains) | HR=65.3 bpm | SpO2=97.9% | Temp=36.90C | Activity=rest
+[ALERT] 2026-03-15T18:36:23Z | Priya (F, age=52, region=coastal_south) | HR=126.6 bpm | SpO2=96.9% | Temp=37.06C | Activity=run | Score=-0.61858 | Drivers: activity_encoded(-1.090), hr_reserve_pct(-0.908), rolling_hr_mean(-0.820) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:23Z | Rohan (M, age=22, region=highland) | HR=74.9 bpm | SpO2=96.1% | Temp=36.75C | Activity=rest
+[ALERT] 2026-03-15T18:36:24Z | Aarav (M, age=34, region=north_plains) | HR=136.2 bpm | SpO2=95.7% | Temp=39.61C | Activity=rest | Score=-0.68923 | Drivers: temp_deviation(-1.145), body_temperature(-1.100), spo2(-0.950) | [93mInsight: CRITICAL: High fever and rapid heart rate detected while resting. Given your region's climate, this may indicate severe heat stress or infection. Cool down immediately, hydrate, and seek medical attention.[0m
+[ALERT] 2026-03-15T18:36:25Z | Priya (F, age=52, region=coastal_south) | HR=114.5 bpm | SpO2=98.2% | Temp=37.30C | Activity=walk | Score=-0.67293 | Drivers: rolling_hr_mean(-0.809), temp_deviation(-0.798), spo2_drop(-0.714) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:36:25Z | Rohan (M, age=22, region=highland) | HR=137.5 bpm | SpO2=94.3% | Temp=39.60C | Activity=rest | Score=-0.67361 | Drivers: hr_reserve_pct(-0.980), spo2(-0.876), temp_deviation(-0.857) | [93mInsight: CRITICAL: High fever and rapid heart rate detected while resting. Given your region's climate, this may indicate severe heat stress or infection. Cool down immediately, hydrate, and seek medical attention.[0m
+[DATA]  2026-03-15T18:36:26Z | Rohan (M, age=22, region=highland) | HR=64.5 bpm | SpO2=98.0% | Temp=36.56C | Activity=rest
+[DATA]  2026-03-15T18:36:25Z | Aarav (M, age=34, region=north_plains) | HR=71.2 bpm | SpO2=98.2% | Temp=36.87C | Activity=rest
+[DATA]  2026-03-15T18:36:26Z | Priya (F, age=52, region=coastal_south) | HR=94.3 bpm | SpO2=97.7% | Temp=37.11C | Activity=walk
+[DATA]  2026-03-15T18:36:27Z | Rohan (M, age=22, region=highland) | HR=94.6 bpm | SpO2=97.3% | Temp=36.55C | Activity=walk
+[ALERT] 2026-03-15T18:36:27Z | Priya (F, age=52, region=coastal_south) | HR=121.7 bpm | SpO2=97.0% | Temp=36.98C | Activity=run | Score=-0.62135 | Drivers: activity_encoded(-1.112), rolling_hr_mean(-0.892), hr_reserve_pct(-0.753) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:27Z | Aarav (M, age=34, region=north_plains) | HR=70.0 bpm | SpO2=97.6% | Temp=36.77C | Activity=rest
+[DATA]  2026-03-15T18:36:28Z | Rohan (M, age=22, region=highland) | HR=94.6 bpm | SpO2=97.1% | Temp=36.71C | Activity=walk
+[DATA]  2026-03-15T18:36:29Z | Aarav (M, age=34, region=north_plains) | HR=67.0 bpm | SpO2=98.0% | Temp=37.16C | Activity=rest
+[ALERT] 2026-03-15T18:36:29Z | Priya (F, age=52, region=coastal_south) | HR=141.9 bpm | SpO2=96.9% | Temp=37.04C | Activity=run | Score=-0.62878 | Drivers: activity_encoded(-1.060), hr_reserve_pct(-1.015), heart_rate(-0.914) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:36:30Z | Rohan (M, age=22, region=highland) | HR=126.5 bpm | SpO2=95.9% | Temp=36.65C | Activity=run | Score=-0.59888 | Drivers: activity_encoded(-1.003), hr_reserve_pct(-0.807), heart_rate(-0.694) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:36:31Z | Priya (F, age=52, region=coastal_south) | HR=126.6 bpm | SpO2=93.2% | Temp=40.12C | Activity=run | Score=-0.69336 | Drivers: activity_encoded(-0.822), temp_deviation(-0.805), body_temperature(-0.758) | [93mInsight: Elevated body temperature detected. Please monitor for fever and stay hydrated.[0m
+[DATA]  2026-03-15T18:36:31Z | Aarav (M, age=34, region=north_plains) | HR=69.0 bpm | SpO2=97.7% | Temp=36.91C | Activity=rest
+[ALERT] 2026-03-15T18:36:31Z | Rohan (M, age=22, region=highland) | HR=164.5 bpm | SpO2=95.9% | Temp=36.50C | Activity=run | Score=-0.68219 | Drivers: hr_reserve_pct(-1.312), heart_rate(-1.124), activity_encoded(-0.933) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:36:32Z | Priya (F, age=52, region=coastal_south) | HR=130.9 bpm | SpO2=96.5% | Temp=36.96C | Activity=run | Score=-0.62266 | Drivers: activity_encoded(-1.026), rolling_hr_mean(-0.868), hr_reserve_pct(-0.844) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:32Z | Aarav (M, age=34, region=north_plains) | HR=71.9 bpm | SpO2=97.5% | Temp=36.92C | Activity=rest
+[ALERT] 2026-03-15T18:36:33Z | Rohan (M, age=22, region=highland) | HR=136.7 bpm | SpO2=96.3% | Temp=36.56C | Activity=run | Score=-0.61020 | Drivers: activity_encoded(-1.017), hr_reserve_pct(-0.964), heart_rate(-0.781) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:36:34Z | Priya (F, age=52, region=coastal_south) | HR=139.3 bpm | SpO2=96.9% | Temp=37.04C | Activity=run | Score=-0.63047 | Drivers: activity_encoded(-1.049), hr_reserve_pct(-0.956), heart_rate(-0.890) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:34Z | Aarav (M, age=34, region=north_plains) | HR=69.5 bpm | SpO2=97.6% | Temp=37.06C | Activity=rest
+[ALERT] 2026-03-15T18:36:35Z | Rohan (M, age=22, region=highland) | HR=132.7 bpm | SpO2=96.0% | Temp=36.49C | Activity=run | Score=-0.64014 | Drivers: activity_encoded(-0.867), hr_reserve_pct(-0.856), heart_rate(-0.674) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:36:35Z | Priya (F, age=52, region=coastal_south) | HR=146.3 bpm | SpO2=97.6% | Temp=37.05C | Activity=run | Score=-0.65635 | Drivers: activity_encoded(-1.229), hr_reserve_pct(-1.228), heart_rate(-1.060) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:35Z | Aarav (M, age=34, region=north_plains) | HR=65.8 bpm | SpO2=98.1% | Temp=36.93C | Activity=rest
+[ALERT] 2026-03-15T18:36:36Z | Rohan (M, age=22, region=highland) | HR=136.7 bpm | SpO2=90.7% | Temp=36.65C | Activity=run | Score=-0.65166 | Drivers: activity_encoded(-0.926), hr_reserve_pct(-0.857), spo2(-0.751) | [93mInsight: Significant drop in blood oxygen detected. Please stop your current activity, sit down, and take deep breaths.[0m
+[ALERT] 2026-03-15T18:36:36Z | Priya (F, age=52, region=coastal_south) | HR=133.1 bpm | SpO2=97.2% | Temp=36.98C | Activity=run | Score=-0.62076 | Drivers: activity_encoded(-1.082), rolling_hr_mean(-0.874), hr_reserve_pct(-0.873) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:37Z | Aarav (M, age=34, region=north_plains) | HR=64.4 bpm | SpO2=97.9% | Temp=37.03C | Activity=rest
+[ALERT] 2026-03-15T18:36:38Z | Rohan (M, age=22, region=highland) | HR=31.5 bpm | SpO2=96.9% | Temp=36.62C | Activity=walk | Score=-0.57466 | Drivers: rolling_hr_mean(-0.794), rolling_hr_std(-0.790), heart_rate(-0.758) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:36:38Z | Priya (F, age=52, region=coastal_south) | HR=133.2 bpm | SpO2=97.6% | Temp=37.21C | Activity=run | Score=-0.66504 | Drivers: activity_encoded(-1.136), hr_reserve_pct(-0.946), rolling_hr_mean(-0.777) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:39Z | Rohan (M, age=22, region=highland) | HR=71.8 bpm | SpO2=96.5% | Temp=36.75C | Activity=rest
+[DATA]  2026-03-15T18:36:39Z | Aarav (M, age=34, region=north_plains) | HR=67.4 bpm | SpO2=97.9% | Temp=36.97C | Activity=rest
+[ALERT] 2026-03-15T18:36:40Z | Priya (F, age=52, region=coastal_south) | HR=157.8 bpm | SpO2=98.0% | Temp=37.14C | Activity=run | Score=-0.69189 | Drivers: hr_reserve_pct(-1.350), heart_rate(-1.293), activity_encoded(-1.195) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:40Z | Rohan (M, age=22, region=highland) | HR=102.4 bpm | SpO2=96.8% | Temp=36.57C | Activity=walk
+[DATA]  2026-03-15T18:36:40Z | Aarav (M, age=34, region=north_plains) | HR=70.6 bpm | SpO2=98.1% | Temp=37.10C | Activity=rest
+[ALERT] 2026-03-15T18:36:41Z | Priya (F, age=52, region=coastal_south) | HR=149.7 bpm | SpO2=96.8% | Temp=37.13C | Activity=run | Score=-0.65881 | Drivers: heart_rate(-1.166), hr_reserve_pct(-1.136), activity_encoded(-1.126) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:42Z | Rohan (M, age=22, region=highland) | HR=61.0 bpm | SpO2=97.4% | Temp=36.59C | Activity=rest
+[DATA]  2026-03-15T18:36:42Z | Aarav (M, age=34, region=north_plains) | HR=70.2 bpm | SpO2=98.8% | Temp=36.94C | Activity=rest
+[ALERT] 2026-03-15T18:36:43Z | Priya (F, age=52, region=coastal_south) | HR=143.7 bpm | SpO2=97.4% | Temp=37.01C | Activity=run | Score=-0.65233 | Drivers: activity_encoded(-1.148), hr_reserve_pct(-1.135), heart_rate(-1.045) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:43Z | Rohan (M, age=22, region=highland) | HR=72.4 bpm | SpO2=96.2% | Temp=36.77C | Activity=rest
+[DATA]  2026-03-15T18:36:44Z | Aarav (M, age=34, region=north_plains) | HR=73.5 bpm | SpO2=97.8% | Temp=36.85C | Activity=rest
+[ALERT] 2026-03-15T18:36:44Z | Priya (F, age=52, region=coastal_south) | HR=124.7 bpm | SpO2=97.4% | Temp=37.09C | Activity=run | Score=-0.63710 | Drivers: activity_encoded(-1.196), hr_reserve_pct(-0.985), heart_rate(-0.864) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:36:45Z | Rohan (M, age=22, region=highland) | HR=72.8 bpm | SpO2=97.4% | Temp=36.51C | Activity=rest
+[DATA]  2026-03-15T18:36:45Z | Aarav (M, age=34, region=north_plains) | HR=67.9 bpm | SpO2=98.8% | Temp=36.89C | Activity=rest
+[DATA]  2026-03-15T18:36:46Z | Priya (F, age=52, region=coastal_south) | HR=85.4 bpm | SpO2=98.2% | Temp=37.17C | Activity=rest
+[DATA]  2026-03-15T18:36:46Z | Aarav (M, age=34, region=north_plains) | HR=67.1 bpm | SpO2=98.3% | Temp=36.97C | Activity=rest
+[DATA]  2026-03-15T18:36:46Z | Rohan (M, age=22, region=highland) | HR=64.1 bpm | SpO2=97.1% | Temp=36.74C | Activity=rest
+[DATA]  2026-03-15T18:36:47Z | Priya (F, age=52, region=coastal_south) | HR=84.1 bpm | SpO2=98.1% | Temp=37.07C | Activity=rest
+[DATA]  2026-03-15T18:36:48Z | Aarav (M, age=34, region=north_plains) | HR=65.2 bpm | SpO2=97.9% | Temp=37.06C | Activity=rest
+[DATA]  2026-03-15T18:36:48Z | Rohan (M, age=22, region=highland) | HR=75.8 bpm | SpO2=97.3% | Temp=36.68C | Activity=rest
+[DATA]  2026-03-15T18:36:48Z | Priya (F, age=52, region=coastal_south) | HR=79.1 bpm | SpO2=97.4% | Temp=37.07C | Activity=rest
+[DATA]  2026-03-15T18:36:49Z | Aarav (M, age=34, region=north_plains) | HR=69.6 bpm | SpO2=97.2% | Temp=36.83C | Activity=rest
+[DATA]  2026-03-15T18:36:50Z | Rohan (M, age=22, region=highland) | HR=73.5 bpm | SpO2=97.4% | Temp=36.58C | Activity=rest
+[DATA]  2026-03-15T18:36:50Z | Priya (F, age=52, region=coastal_south) | HR=78.1 bpm | SpO2=98.2% | Temp=37.16C | Activity=rest
+[DATA]  2026-03-15T18:36:51Z | Aarav (M, age=34, region=north_plains) | HR=78.8 bpm | SpO2=99.2% | Temp=36.97C | Activity=rest
+[DATA]  2026-03-15T18:36:51Z | Rohan (M, age=22, region=highland) | HR=73.8 bpm | SpO2=96.8% | Temp=36.76C | Activity=rest
+[ALERT] 2026-03-15T18:36:52Z | Priya (F, age=52, region=coastal_south) | HR=88.9 bpm | SpO2=97.6% | Temp=36.88C | Activity=rest | Score=-0.59529 | Drivers: rolling_hr_mean(-0.999), body_temperature(-0.576), rolling_hr_std(-0.543) | [93mInsight: Erratic heart rate pattern detected. Take a moment to relax and breathe steadily.[0m
+[DATA]  2026-03-15T18:36:52Z | Aarav (M, age=34, region=north_plains) | HR=81.6 bpm | SpO2=97.7% | Temp=36.97C | Activity=rest
+[ALERT] 2026-03-15T18:36:53Z | Rohan (M, age=22, region=highland) | HR=143.8 bpm | SpO2=94.4% | Temp=40.59C | Activity=rest | Score=-0.69707 | Drivers: hr_reserve_pct(-0.983), temp_deviation(-0.830), heart_rate(-0.767) | [93mInsight: CRITICAL: High fever and rapid heart rate detected while resting. Given your region's climate, this may indicate severe heat stress or infection. Cool down immediately, hydrate, and seek medical attention.[0m
+[DATA]  2026-03-15T18:36:54Z | Aarav (M, age=34, region=north_plains) | HR=73.4 bpm | SpO2=98.5% | Temp=36.94C | Activity=rest
+[DATA]  2026-03-15T18:36:53Z | Priya (F, age=52, region=coastal_south) | HR=80.0 bpm | SpO2=98.1% | Temp=36.93C | Activity=rest
+[DATA]  2026-03-15T18:36:54Z | Rohan (M, age=22, region=highland) | HR=70.9 bpm | SpO2=97.5% | Temp=36.78C | Activity=rest
+[ALERT] 2026-03-15T18:36:55Z | Aarav (M, age=34, region=north_plains) | HR=159.9 bpm | SpO2=97.6% | Temp=37.04C | Activity=rest | Score=-0.57357 | Drivers: hr_reserve_pct(-1.906), heart_rate(-1.746), spo2(+0.115) | [93mInsight: Unusually high heart rate detected while resting. This could be caused by dehydration, stress, or caffeine. Please sit quietly and drink water.[0m
+[DATA]  2026-03-15T18:36:55Z | Priya (F, age=52, region=coastal_south) | HR=81.0 bpm | SpO2=97.4% | Temp=37.24C | Activity=rest
+[ALERT] 2026-03-15T18:36:56Z | Rohan (M, age=22, region=highland) | HR=63.8 bpm | SpO2=97.3% | Temp=36.39C | Activity=rest | Score=-0.60670 | Drivers: body_temperature(-1.141), temp_deviation(-0.862), rolling_hr_std(-0.800) | [93mInsight: Unusual physiological pattern detected. Your body is behaving slightly differently than your normal baseline.[0m
+[DATA]  2026-03-15T18:36:57Z | Aarav (M, age=34, region=north_plains) | HR=62.7 bpm | SpO2=98.1% | Temp=36.96C | Activity=rest
+[DATA]  2026-03-15T18:36:57Z | Priya (F, age=52, region=coastal_south) | HR=83.8 bpm | SpO2=98.0% | Temp=37.06C | Activity=rest
+[DATA]  2026-03-15T18:36:57Z | Rohan (M, age=22, region=highland) | HR=65.5 bpm | SpO2=97.2% | Temp=36.61C | Activity=rest
+[DATA]  2026-03-15T18:36:58Z | Aarav (M, age=34, region=north_plains) | HR=66.1 bpm | SpO2=98.2% | Temp=36.83C | Activity=rest
+[ALERT] 2026-03-15T18:36:59Z | Priya (F, age=52, region=coastal_south) | HR=140.3 bpm | SpO2=98.5% | Temp=37.08C | Activity=rest | Score=-0.63483 | Drivers: hr_reserve_pct(-1.263), heart_rate(-1.203), rolling_hr_mean(-0.926) | [93mInsight: Unusually high heart rate detected while resting. This could be caused by dehydration, stress, or caffeine. Please sit quietly and drink water.[0m
+[DATA]  2026-03-15T18:36:59Z | Rohan (M, age=22, region=highland) | HR=73.1 bpm | SpO2=96.7% | Temp=36.73C | Activity=rest
+[DATA]  2026-03-15T18:36:59Z | Aarav (M, age=34, region=north_plains) | HR=72.5 bpm | SpO2=98.4% | Temp=37.06C | Activity=rest
+[DATA]  2026-03-15T18:37:00Z | Priya (F, age=52, region=coastal_south) | HR=82.0 bpm | SpO2=97.9% | Temp=36.86C | Activity=rest
+[DATA]  2026-03-15T18:37:01Z | Rohan (M, age=22, region=highland) | HR=74.7 bpm | SpO2=97.0% | Temp=36.59C | Activity=rest
+[DATA]  2026-03-15T18:37:01Z | Priya (F, age=52, region=coastal_south) | HR=81.4 bpm | SpO2=97.6% | Temp=36.95C | Activity=rest
+[DATA]  2026-03-15T18:37:01Z | Aarav (M, age=34, region=north_plains) | HR=68.6 bpm | SpO2=98.0% | Temp=37.06C | Activity=rest
+[DATA]  2026-03-15T18:37:02Z | Rohan (M, age=22, region=highland) | HR=74.1 bpm | SpO2=97.1% | Temp=36.47C | Activity=rest
+[DATA]  2026-03-15T18:37:03Z | Priya (F, age=52, region=coastal_south) | HR=81.3 bpm | SpO2=98.5% | Temp=37.10C | Activity=rest
+[DATA]  2026-03-15T18:37:03Z | Aarav (M, age=34, region=north_plains) | HR=77.3 bpm | SpO2=98.0% | Temp=36.75C | Activity=rest
+[DATA]  2026-03-15T18:37:04Z | Rohan (M, age=22, region=highland) | HR=70.4 bpm | SpO2=97.7% | Temp=36.63C | Activity=rest
+[DATA]  2026-03-15T18:37:05Z | Priya (F, age=52, region=coastal_south) | HR=76.0 bpm | SpO2=96.9% | Temp=37.00C | Activity=rest
+[DATA]  2026-03-15T18:37:05Z | Aarav (M, age=34, region=north_plains) | HR=71.3 bpm | SpO2=98.3% | Temp=36.86C | Activity=rest
+[DATA]  2026-03-15T18:37:06Z | Rohan (M, age=22, region=highland) | HR=64.8 bpm | SpO2=97.2% | Temp=36.68C | Activity=rest
+[DATA]  2026-03-15T18:37:06Z | Priya (F, age=52, region=coastal_south) | HR=83.5 bpm | SpO2=97.9% | Temp=37.16C | Activity=rest
+[DATA]  2026-03-15T18:37:07Z | Aarav (M, age=34, region=north_plains) | HR=67.9 bpm | SpO2=97.9% | Temp=36.89C | Activity=rest
+[DATA]  2026-03-15T18:37:07Z | Rohan (M, age=22, region=highland) | HR=68.3 bpm | SpO2=97.5% | Temp=36.61C | Activity=rest
+[ALERT] 2026-03-15T18:37:07Z | Priya (F, age=52, region=coastal_south) | HR=140.0 bpm | SpO2=96.7% | Temp=37.16C | Activity=run | Score=-0.63947 | Drivers: activity_encoded(-0.916), rolling_hr_mean(-0.862), heart_rate(-0.853) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:08Z | Aarav (M, age=34, region=north_plains) | HR=73.1 bpm | SpO2=97.6% | Temp=36.87C | Activity=rest
+[DATA]  2026-03-15T18:37:09Z | Rohan (M, age=22, region=highland) | HR=60.0 bpm | SpO2=97.2% | Temp=36.62C | Activity=rest
+[DATA]  2026-03-15T18:37:09Z | Aarav (M, age=34, region=north_plains) | HR=72.9 bpm | SpO2=97.8% | Temp=37.05C | Activity=rest
+[DATA]  2026-03-15T18:37:09Z | Priya (F, age=52, region=coastal_south) | HR=109.0 bpm | SpO2=98.0% | Temp=37.07C | Activity=walk
+[DATA]  2026-03-15T18:37:10Z | Rohan (M, age=22, region=highland) | HR=68.2 bpm | SpO2=97.2% | Temp=36.59C | Activity=rest
+[DATA]  2026-03-15T18:37:11Z | Priya (F, age=52, region=coastal_south) | HR=84.7 bpm | SpO2=98.6% | Temp=37.13C | Activity=rest
+[DATA]  2026-03-15T18:37:11Z | Aarav (M, age=34, region=north_plains) | HR=75.8 bpm | SpO2=97.9% | Temp=37.01C | Activity=rest
+[ALERT] 2026-03-15T18:37:11Z | Rohan (M, age=22, region=highland) | HR=103.6 bpm | SpO2=97.9% | Temp=36.88C | Activity=walk | Score=-0.64712 | Drivers: body_temperature(-0.960), temp_deviation(-0.933), spo2_drop(-0.929) | [93mInsight: Unusual physiological pattern detected. Your body is behaving slightly differently than your normal baseline.[0m
+[DATA]  2026-03-15T18:37:12Z | Priya (F, age=52, region=coastal_south) | HR=74.4 bpm | SpO2=97.3% | Temp=37.10C | Activity=rest
+[DATA]  2026-03-15T18:37:12Z | Aarav (M, age=34, region=north_plains) | HR=98.2 bpm | SpO2=97.7% | Temp=36.79C | Activity=walk
+[DATA]  2026-03-15T18:37:13Z | Rohan (M, age=22, region=highland) | HR=87.3 bpm | SpO2=97.0% | Temp=36.53C | Activity=walk
+[DATA]  2026-03-15T18:37:14Z | Aarav (M, age=34, region=north_plains) | HR=93.7 bpm | SpO2=97.3% | Temp=37.03C | Activity=walk
+[DATA]  2026-03-15T18:37:13Z | Priya (F, age=52, region=coastal_south) | HR=83.0 bpm | SpO2=97.8% | Temp=37.00C | Activity=rest
+[DATA]  2026-03-15T18:37:14Z | Rohan (M, age=22, region=highland) | HR=81.9 bpm | SpO2=96.2% | Temp=36.66C | Activity=walk
+[ALERT] 2026-03-15T18:37:15Z | Aarav (M, age=34, region=north_plains) | HR=97.6 bpm | SpO2=82.8% | Temp=37.08C | Activity=walk | Score=-0.60401 | Drivers: spo2(-1.191), spo2_drop(-1.178), hr_reserve_pct(-0.513) | [93mInsight: Significant drop in blood oxygen detected. Please stop your current activity, sit down, and take deep breaths.[0m
+[DATA]  2026-03-15T18:37:15Z | Priya (F, age=52, region=coastal_south) | HR=81.9 bpm | SpO2=97.8% | Temp=36.90C | Activity=rest
+[DATA]  2026-03-15T18:37:15Z | Rohan (M, age=22, region=highland) | HR=111.7 bpm | SpO2=97.1% | Temp=36.56C | Activity=walk
+[DATA]  2026-03-15T18:37:16Z | Priya (F, age=52, region=coastal_south) | HR=77.5 bpm | SpO2=97.4% | Temp=37.06C | Activity=rest
+[DATA]  2026-03-15T18:37:16Z | Aarav (M, age=34, region=north_plains) | HR=97.5 bpm | SpO2=97.0% | Temp=36.94C | Activity=walk
+[ALERT] 2026-03-15T18:37:17Z | Rohan (M, age=22, region=highland) | HR=85.3 bpm | SpO2=96.8% | Temp=36.87C | Activity=walk | Score=-0.57351 | Drivers: body_temperature(-1.193), temp_deviation(-1.119), rolling_hr_std(-0.674) | [93mInsight: Unusual physiological pattern detected. Your body is behaving slightly differently than your normal baseline.[0m
+[DATA]  2026-03-15T18:37:18Z | Priya (F, age=52, region=coastal_south) | HR=87.6 bpm | SpO2=98.5% | Temp=36.94C | Activity=rest
+[DATA]  2026-03-15T18:37:18Z | Aarav (M, age=34, region=north_plains) | HR=75.6 bpm | SpO2=98.5% | Temp=37.00C | Activity=rest
+[DATA]  2026-03-15T18:37:18Z | Rohan (M, age=22, region=highland) | HR=90.5 bpm | SpO2=97.4% | Temp=36.84C | Activity=walk
+[DATA]  2026-03-15T18:37:20Z | Priya (F, age=52, region=coastal_south) | HR=80.9 bpm | SpO2=97.9% | Temp=37.09C | Activity=rest
+[DATA]  2026-03-15T18:37:20Z | Aarav (M, age=34, region=north_plains) | HR=75.5 bpm | SpO2=97.4% | Temp=37.08C | Activity=rest
+[DATA]  2026-03-15T18:37:20Z | Rohan (M, age=22, region=highland) | HR=106.7 bpm | SpO2=96.9% | Temp=36.83C | Activity=walk
+[DATA]  2026-03-15T18:37:21Z | Priya (F, age=52, region=coastal_south) | HR=83.9 bpm | SpO2=97.7% | Temp=37.13C | Activity=rest
+[DATA]  2026-03-15T18:37:21Z | Aarav (M, age=34, region=north_plains) | HR=72.8 bpm | SpO2=98.0% | Temp=36.95C | Activity=rest
+[DATA]  2026-03-15T18:37:21Z | Rohan (M, age=22, region=highland) | HR=100.6 bpm | SpO2=96.6% | Temp=36.62C | Activity=walk
+[DATA]  2026-03-15T18:37:22Z | Aarav (M, age=34, region=north_plains) | HR=72.6 bpm | SpO2=97.5% | Temp=37.02C | Activity=rest
+[DATA]  2026-03-15T18:37:22Z | Priya (F, age=52, region=coastal_south) | HR=79.6 bpm | SpO2=98.4% | Temp=37.11C | Activity=rest
+[DATA]  2026-03-15T18:37:23Z | Rohan (M, age=22, region=highland) | HR=81.4 bpm | SpO2=95.9% | Temp=36.56C | Activity=walk
+[DATA]  2026-03-15T18:37:24Z | Aarav (M, age=34, region=north_plains) | HR=73.9 bpm | SpO2=98.0% | Temp=37.12C | Activity=rest
+[DATA]  2026-03-15T18:37:24Z | Priya (F, age=52, region=coastal_south) | HR=77.3 bpm | SpO2=97.9% | Temp=37.29C | Activity=rest
+[DATA]  2026-03-15T18:37:25Z | Rohan (M, age=22, region=highland) | HR=94.5 bpm | SpO2=96.5% | Temp=36.64C | Activity=walk
+[DATA]  2026-03-15T18:37:25Z | Aarav (M, age=34, region=north_plains) | HR=74.6 bpm | SpO2=98.1% | Temp=37.05C | Activity=rest
+[DATA]  2026-03-15T18:37:26Z | Priya (F, age=52, region=coastal_south) | HR=112.4 bpm | SpO2=97.0% | Temp=37.09C | Activity=walk
+[DATA]  2026-03-15T18:37:26Z | Rohan (M, age=22, region=highland) | HR=94.8 bpm | SpO2=96.9% | Temp=36.68C | Activity=walk
+[DATA]  2026-03-15T18:37:26Z | Aarav (M, age=34, region=north_plains) | HR=71.2 bpm | SpO2=98.0% | Temp=36.95C | Activity=rest
+[DATA]  2026-03-15T18:37:27Z | Priya (F, age=52, region=coastal_south) | HR=97.2 bpm | SpO2=97.3% | Temp=37.07C | Activity=walk
+[DATA]  2026-03-15T18:37:28Z | Aarav (M, age=34, region=north_plains) | HR=137.5 bpm | SpO2=97.6% | Temp=36.99C | Activity=rest
+[DATA]  2026-03-15T18:37:27Z | Rohan (M, age=22, region=highland) | HR=110.5 bpm | SpO2=96.9% | Temp=36.59C | Activity=walk
+[ALERT] 2026-03-15T18:37:28Z | Priya (F, age=52, region=coastal_south) | HR=118.3 bpm | SpO2=99.0% | Temp=37.04C | Activity=walk | Score=-0.60940 | Drivers: spo2(-0.893), hr_reserve_pct(-0.818), spo2_drop(-0.777) | [93mInsight: Combined physiological stress detected (elevated heart rate and dipping oxygen). Please pause and rest.[0m
+[DATA]  2026-03-15T18:37:29Z | Rohan (M, age=22, region=highland) | HR=92.5 bpm | SpO2=97.0% | Temp=36.77C | Activity=walk
+[DATA]  2026-03-15T18:37:29Z | Aarav (M, age=34, region=north_plains) | HR=72.4 bpm | SpO2=97.6% | Temp=36.98C | Activity=rest
+[DATA]  2026-03-15T18:37:29Z | Priya (F, age=52, region=coastal_south) | HR=117.7 bpm | SpO2=97.6% | Temp=37.11C | Activity=walk
+[DATA]  2026-03-15T18:37:30Z | Rohan (M, age=22, region=highland) | HR=69.0 bpm | SpO2=97.0% | Temp=36.48C | Activity=rest
+[DATA]  2026-03-15T18:37:31Z | Aarav (M, age=34, region=north_plains) | HR=66.5 bpm | SpO2=97.7% | Temp=36.97C | Activity=rest
+[ALERT] 2026-03-15T18:37:31Z | Priya (F, age=52, region=coastal_south) | HR=162.8 bpm | SpO2=97.4% | Temp=37.18C | Activity=run | Score=-0.65132 | Drivers: hr_reserve_pct(-1.386), heart_rate(-1.320), activity_encoded(-1.178) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:32Z | Rohan (M, age=22, region=highland) | HR=68.3 bpm | SpO2=97.8% | Temp=36.63C | Activity=rest
+[DATA]  2026-03-15T18:37:33Z | Aarav (M, age=34, region=north_plains) | HR=67.6 bpm | SpO2=98.3% | Temp=37.02C | Activity=rest
+[DATA]  2026-03-15T18:37:33Z | Priya (F, age=52, region=coastal_south) | HR=31.8 bpm | SpO2=97.1% | Temp=37.10C | Activity=run
+[DATA]  2026-03-15T18:37:34Z | Rohan (M, age=22, region=highland) | HR=68.8 bpm | SpO2=96.8% | Temp=36.52C | Activity=rest
+[DATA]  2026-03-15T18:37:34Z | Aarav (M, age=34, region=north_plains) | HR=69.5 bpm | SpO2=97.5% | Temp=36.98C | Activity=rest
+[ALERT] 2026-03-15T18:37:35Z | Priya (F, age=52, region=coastal_south) | HR=150.5 bpm | SpO2=97.3% | Temp=37.11C | Activity=run | Score=-0.62972 | Drivers: hr_reserve_pct(-1.267), heart_rate(-1.215), activity_encoded(-1.152) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:35Z | Rohan (M, age=22, region=highland) | HR=73.4 bpm | SpO2=96.9% | Temp=36.55C | Activity=rest
+[DATA]  2026-03-15T18:37:36Z | Aarav (M, age=34, region=north_plains) | HR=64.1 bpm | SpO2=97.4% | Temp=37.02C | Activity=rest
+[ALERT] 2026-03-15T18:37:36Z | Priya (F, age=52, region=coastal_south) | HR=139.2 bpm | SpO2=97.2% | Temp=36.88C | Activity=run | Score=-0.61544 | Drivers: activity_encoded(-0.861), heart_rate(-0.824), hr_reserve_pct(-0.797) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:37Z | Rohan (M, age=22, region=highland) | HR=68.6 bpm | SpO2=96.5% | Temp=36.79C | Activity=rest
+[ALERT] 2026-03-15T18:37:38Z | Priya (F, age=52, region=coastal_south) | HR=109.7 bpm | SpO2=98.1% | Temp=37.25C | Activity=walk | Score=-0.60957 | Drivers: body_temperature(-0.699), activity_encoded(-0.669), hr_reserve_pct(-0.608) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:38Z | Aarav (M, age=34, region=north_plains) | HR=80.3 bpm | SpO2=97.2% | Temp=36.96C | Activity=rest
+[DATA]  2026-03-15T18:37:38Z | Rohan (M, age=22, region=highland) | HR=64.2 bpm | SpO2=96.8% | Temp=36.48C | Activity=rest
+[ALERT] 2026-03-15T18:37:40Z | Priya (F, age=52, region=coastal_south) | HR=130.6 bpm | SpO2=97.4% | Temp=37.18C | Activity=run | Score=-0.61535 | Drivers: activity_encoded(-1.100), hr_reserve_pct(-0.829), heart_rate(-0.799) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:40Z | Rohan (M, age=22, region=highland) | HR=70.2 bpm | SpO2=97.3% | Temp=36.54C | Activity=rest
+[DATA]  2026-03-15T18:37:40Z | Aarav (M, age=34, region=north_plains) | HR=70.0 bpm | SpO2=98.0% | Temp=36.89C | Activity=rest
+[DATA]  2026-03-15T18:37:42Z | Rohan (M, age=22, region=highland) | HR=66.6 bpm | SpO2=98.1% | Temp=36.72C | Activity=rest
+[DATA]  2026-03-15T18:37:41Z | Priya (F, age=52, region=coastal_south) | HR=128.3 bpm | SpO2=97.0% | Temp=37.05C | Activity=run
+[DATA]  2026-03-15T18:37:42Z | Aarav (M, age=34, region=north_plains) | HR=78.2 bpm | SpO2=98.6% | Temp=37.07C | Activity=rest
+[DATA]  2026-03-15T18:37:43Z | Rohan (M, age=22, region=highland) | HR=64.5 bpm | SpO2=97.6% | Temp=36.65C | Activity=rest
+[DATA]  2026-03-15T18:37:43Z | Priya (F, age=52, region=coastal_south) | HR=135.5 bpm | SpO2=97.0% | Temp=36.94C | Activity=run
+[DATA]  2026-03-15T18:37:43Z | Aarav (M, age=34, region=north_plains) | HR=67.9 bpm | SpO2=98.1% | Temp=36.86C | Activity=rest
+[DATA]  2026-03-15T18:37:44Z | Rohan (M, age=22, region=highland) | HR=65.6 bpm | SpO2=97.3% | Temp=36.66C | Activity=rest
+[ALERT] 2026-03-15T18:37:45Z | Priya (F, age=52, region=coastal_south) | HR=142.5 bpm | SpO2=96.1% | Temp=37.17C | Activity=run | Score=-0.65808 | Drivers: activity_encoded(-0.959), heart_rate(-0.823), hr_reserve_pct(-0.822) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:45Z | Aarav (M, age=34, region=north_plains) | HR=59.7 bpm | SpO2=98.2% | Temp=36.91C | Activity=rest
+[DATA]  2026-03-15T18:37:45Z | Rohan (M, age=22, region=highland) | HR=70.1 bpm | SpO2=97.3% | Temp=36.59C | Activity=rest
+[ALERT] 2026-03-15T18:37:46Z | Priya (F, age=52, region=coastal_south) | HR=129.2 bpm | SpO2=97.6% | Temp=37.05C | Activity=run | Score=-0.60519 | Drivers: activity_encoded(-1.247), hr_reserve_pct(-0.973), heart_rate(-0.878) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:47Z | Aarav (M, age=34, region=north_plains) | HR=103.8 bpm | SpO2=97.7% | Temp=37.01C | Activity=walk
+[DATA]  2026-03-15T18:37:47Z | Rohan (M, age=22, region=highland) | HR=68.6 bpm | SpO2=97.8% | Temp=36.74C | Activity=rest
+[DATA]  2026-03-15T18:37:48Z | Aarav (M, age=34, region=north_plains) | HR=101.6 bpm | SpO2=97.4% | Temp=36.77C | Activity=walk
+[ALERT] 2026-03-15T18:37:48Z | Priya (F, age=52, region=coastal_south) | HR=149.9 bpm | SpO2=97.4% | Temp=36.88C | Activity=run | Score=-0.65985 | Drivers: heart_rate(-1.085), hr_reserve_pct(-1.045), activity_encoded(-1.016) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:48Z | Rohan (M, age=22, region=highland) | HR=71.5 bpm | SpO2=97.2% | Temp=36.71C | Activity=rest
+[ALERT] 2026-03-15T18:37:49Z | Aarav (M, age=34, region=north_plains) | HR=145.7 bpm | SpO2=98.2% | Temp=37.07C | Activity=rest | Score=-0.58129 | Drivers: hr_reserve_pct(-1.575), heart_rate(-1.488), spo2_drop(-0.504) | [93mInsight: Unusually high heart rate detected while resting. This could be caused by dehydration, stress, or caffeine. Please sit quietly and drink water.[0m
+[ALERT] 2026-03-15T18:37:50Z | Priya (F, age=52, region=coastal_south) | HR=135.1 bpm | SpO2=97.6% | Temp=37.17C | Activity=run | Score=-0.63576 | Drivers: activity_encoded(-1.200), hr_reserve_pct(-0.944), rolling_hr_mean(-0.894) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:50Z | Rohan (M, age=22, region=highland) | HR=39.7 bpm | SpO2=96.7% | Temp=36.71C | Activity=rest
+[DATA]  2026-03-15T18:37:51Z | Aarav (M, age=34, region=north_plains) | HR=73.8 bpm | SpO2=86.9% | Temp=36.97C | Activity=rest
+[ALERT] 2026-03-15T18:37:51Z | Priya (F, age=52, region=coastal_south) | HR=136.4 bpm | SpO2=97.3% | Temp=37.04C | Activity=run | Score=-0.61198 | Drivers: activity_encoded(-1.025), rolling_hr_mean(-0.975), heart_rate(-0.898) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:51Z | Rohan (M, age=22, region=highland) | HR=70.5 bpm | SpO2=97.0% | Temp=36.63C | Activity=rest
+[DATA]  2026-03-15T18:37:52Z | Aarav (M, age=34, region=north_plains) | HR=70.9 bpm | SpO2=98.3% | Temp=36.85C | Activity=rest
+[ALERT] 2026-03-15T18:37:53Z | Priya (F, age=52, region=coastal_south) | HR=148.2 bpm | SpO2=97.2% | Temp=37.02C | Activity=run | Score=-0.63108 | Drivers: heart_rate(-1.087), hr_reserve_pct(-1.067), activity_encoded(-1.034) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:53Z | Rohan (M, age=22, region=highland) | HR=70.1 bpm | SpO2=96.8% | Temp=36.66C | Activity=rest
+[DATA]  2026-03-15T18:37:53Z | Aarav (M, age=34, region=north_plains) | HR=72.2 bpm | SpO2=97.5% | Temp=37.02C | Activity=rest
+[ALERT] 2026-03-15T18:37:54Z | Priya (F, age=52, region=coastal_south) | HR=151.8 bpm | SpO2=97.6% | Temp=37.06C | Activity=run | Score=-0.64979 | Drivers: hr_reserve_pct(-1.330), heart_rate(-1.241), activity_encoded(-1.228) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:55Z | Aarav (M, age=34, region=north_plains) | HR=84.7 bpm | SpO2=98.3% | Temp=36.92C | Activity=walk
+[DATA]  2026-03-15T18:37:55Z | Rohan (M, age=22, region=highland) | HR=74.6 bpm | SpO2=97.6% | Temp=36.58C | Activity=rest
+[ALERT] 2026-03-15T18:37:55Z | Priya (F, age=52, region=coastal_south) | HR=129.4 bpm | SpO2=96.6% | Temp=36.93C | Activity=run | Score=-0.63790 | Drivers: activity_encoded(-0.844), rolling_hr_mean(-0.799), hr_reserve_pct(-0.723) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:56Z | Rohan (M, age=22, region=highland) | HR=72.4 bpm | SpO2=97.6% | Temp=36.68C | Activity=rest
+[DATA]  2026-03-15T18:37:56Z | Aarav (M, age=34, region=north_plains) | HR=104.1 bpm | SpO2=97.7% | Temp=37.05C | Activity=walk
+[ALERT] 2026-03-15T18:37:57Z | Priya (F, age=52, region=coastal_south) | HR=126.2 bpm | SpO2=97.6% | Temp=37.07C | Activity=run | Score=-0.61792 | Drivers: activity_encoded(-1.268), hr_reserve_pct(-0.975), rolling_hr_mean(-0.921) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:37:58Z | Aarav (M, age=34, region=north_plains) | HR=100.3 bpm | SpO2=97.2% | Temp=36.94C | Activity=walk
+[DATA]  2026-03-15T18:37:58Z | Rohan (M, age=22, region=highland) | HR=66.5 bpm | SpO2=96.9% | Temp=36.97C | Activity=rest
+[ALERT] 2026-03-15T18:37:58Z | Priya (F, age=52, region=coastal_south) | HR=141.3 bpm | SpO2=96.8% | Temp=37.12C | Activity=run | Score=-0.63029 | Drivers: activity_encoded(-0.911), rolling_hr_mean(-0.876), heart_rate(-0.871) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:37:59Z | Aarav (M, age=34, region=north_plains) | HR=146.3 bpm | SpO2=97.8% | Temp=36.96C | Activity=walk | Score=-0.57256 | Drivers: hr_reserve_pct(-1.534), heart_rate(-1.262), activity_encoded(-0.620) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:38:00Z | Priya (F, age=52, region=coastal_south) | HR=151.8 bpm | SpO2=96.6% | Temp=36.92C | Activity=run | Score=-0.66009 | Drivers: heart_rate(-1.047), hr_reserve_pct(-1.021), activity_encoded(-0.844) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:00Z | Rohan (M, age=22, region=highland) | HR=67.3 bpm | SpO2=97.5% | Temp=36.66C | Activity=rest
+[DATA]  2026-03-15T18:38:00Z | Aarav (M, age=34, region=north_plains) | HR=97.3 bpm | SpO2=97.9% | Temp=36.88C | Activity=walk
+[DATA]  2026-03-15T18:38:01Z | Rohan (M, age=22, region=highland) | HR=75.6 bpm | SpO2=96.9% | Temp=36.77C | Activity=rest
+[ALERT] 2026-03-15T18:38:01Z | Priya (F, age=52, region=coastal_south) | HR=143.9 bpm | SpO2=96.6% | Temp=37.00C | Activity=run | Score=-0.62478 | Drivers: hr_reserve_pct(-0.913), rolling_hr_mean(-0.889), heart_rate(-0.876) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:03Z | Rohan (M, age=22, region=highland) | HR=95.7 bpm | SpO2=96.3% | Temp=36.62C | Activity=walk
+[ALERT] 2026-03-15T18:38:03Z | Priya (F, age=52, region=coastal_south) | HR=151.9 bpm | SpO2=98.2% | Temp=36.97C | Activity=walk | Score=-0.66164 | Drivers: hr_reserve_pct(-1.385), heart_rate(-1.296), rolling_hr_mean(-0.878) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:02Z | Aarav (M, age=34, region=north_plains) | HR=92.3 bpm | SpO2=97.5% | Temp=37.16C | Activity=walk
+[ALERT] 2026-03-15T18:38:04Z | Priya (F, age=52, region=coastal_south) | HR=133.5 bpm | SpO2=97.1% | Temp=37.13C | Activity=run | Score=-0.61756 | Drivers: activity_encoded(-1.024), rolling_hr_mean(-0.944), hr_reserve_pct(-0.812) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:04Z | Rohan (M, age=22, region=highland) | HR=74.8 bpm | SpO2=96.8% | Temp=36.65C | Activity=rest
+[ALERT] 2026-03-15T18:38:04Z | Aarav (M, age=34, region=north_plains) | HR=143.5 bpm | SpO2=92.1% | Temp=39.95C | Activity=rest | Score=-0.69702 | Drivers: temp_deviation(-1.101), body_temperature(-1.086), spo2_drop(-0.938) | [93mInsight: CRITICAL: High fever and rapid heart rate detected while resting. Given your region's climate, this may indicate severe heat stress or infection. Cool down immediately, hydrate, and seek medical attention.[0m
+[ALERT] 2026-03-15T18:38:05Z | Priya (F, age=52, region=coastal_south) | HR=89.5 bpm | SpO2=97.5% | Temp=36.93C | Activity=walk | Score=-0.59398 | Drivers: rolling_hr_mean(-1.156), activity_encoded(-0.850), rolling_hr_std(-0.651) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:05Z | Rohan (M, age=22, region=highland) | HR=75.8 bpm | SpO2=97.5% | Temp=36.69C | Activity=rest
+[DATA]  2026-03-15T18:38:06Z | Aarav (M, age=34, region=north_plains) | HR=72.1 bpm | SpO2=97.2% | Temp=37.04C | Activity=rest
+[ALERT] 2026-03-15T18:38:06Z | Priya (F, age=52, region=coastal_south) | HR=101.1 bpm | SpO2=97.3% | Temp=36.94C | Activity=walk | Score=-0.59866 | Drivers: rolling_hr_mean(-1.205), activity_encoded(-0.659), rolling_hr_std(-0.617) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:07Z | Rohan (M, age=22, region=highland) | HR=69.8 bpm | SpO2=97.3% | Temp=36.57C | Activity=rest
+[DATA]  2026-03-15T18:38:07Z | Aarav (M, age=34, region=north_plains) | HR=69.0 bpm | SpO2=97.4% | Temp=36.76C | Activity=rest
+[DATA]  2026-03-15T18:38:08Z | Priya (F, age=52, region=coastal_south) | HR=87.3 bpm | SpO2=98.7% | Temp=37.03C | Activity=rest
+[DATA]  2026-03-15T18:38:08Z | Rohan (M, age=22, region=highland) | HR=70.6 bpm | SpO2=97.2% | Temp=36.57C | Activity=rest
+[ALERT] 2026-03-15T18:38:09Z | Aarav (M, age=34, region=north_plains) | HR=152.5 bpm | SpO2=97.8% | Temp=36.78C | Activity=rest | Score=-0.61335 | Drivers: hr_reserve_pct(-1.508), heart_rate(-1.429), body_temperature(-0.469) | [93mInsight: Unusually high heart rate detected while resting. This could be caused by dehydration, stress, or caffeine. Please sit quietly and drink water.[0m
+[DATA]  2026-03-15T18:38:09Z | Priya (F, age=52, region=coastal_south) | HR=85.0 bpm | SpO2=97.3% | Temp=36.99C | Activity=rest
+[ALERT] 2026-03-15T18:38:10Z | Rohan (M, age=22, region=highland) | HR=139.5 bpm | SpO2=90.5% | Temp=36.77C | Activity=rest | Score=-0.62528 | Drivers: hr_reserve_pct(-1.179), heart_rate(-1.123), spo2(-0.996) | [93mInsight: Significant drop in blood oxygen detected. While resting, this is unusual. If you feel short of breath, seek medical advice.[0m
+[DATA]  2026-03-15T18:38:10Z | Aarav (M, age=34, region=north_plains) | HR=78.7 bpm | SpO2=97.9% | Temp=37.18C | Activity=rest
+[DATA]  2026-03-15T18:38:11Z | Priya (F, age=52, region=coastal_south) | HR=80.4 bpm | SpO2=97.8% | Temp=37.15C | Activity=rest
+[DATA]  2026-03-15T18:38:12Z | Rohan (M, age=22, region=highland) | HR=67.3 bpm | SpO2=97.4% | Temp=36.88C | Activity=rest
+[DATA]  2026-03-15T18:38:12Z | Aarav (M, age=34, region=north_plains) | HR=73.6 bpm | SpO2=98.4% | Temp=36.79C | Activity=rest
+[DATA]  2026-03-15T18:38:13Z | Rohan (M, age=22, region=highland) | HR=62.4 bpm | SpO2=97.1% | Temp=36.76C | Activity=rest
+[ALERT] 2026-03-15T18:38:13Z | Priya (F, age=52, region=coastal_south) | HR=140.2 bpm | SpO2=98.4% | Temp=37.27C | Activity=rest | Score=-0.67126 | Drivers: hr_reserve_pct(-1.175), heart_rate(-1.019), rolling_hr_mean(-0.811) | [93mInsight: Unusually high heart rate detected while resting. This could be caused by dehydration, stress, or caffeine. Please sit quietly and drink water.[0m
+[DATA]  2026-03-15T18:38:14Z | Aarav (M, age=34, region=north_plains) | HR=71.5 bpm | SpO2=98.5% | Temp=36.79C | Activity=rest
+[DATA]  2026-03-15T18:38:14Z | Rohan (M, age=22, region=highland) | HR=66.3 bpm | SpO2=96.8% | Temp=36.79C | Activity=rest
+[DATA]  2026-03-15T18:38:14Z | Priya (F, age=52, region=coastal_south) | HR=83.6 bpm | SpO2=97.7% | Temp=36.89C | Activity=rest
+[DATA]  2026-03-15T18:38:15Z | Rohan (M, age=22, region=highland) | HR=67.8 bpm | SpO2=97.4% | Temp=36.55C | Activity=rest
+[DATA]  2026-03-15T18:38:15Z | Aarav (M, age=34, region=north_plains) | HR=64.4 bpm | SpO2=98.0% | Temp=37.06C | Activity=rest
+[DATA]  2026-03-15T18:38:16Z | Priya (F, age=52, region=coastal_south) | HR=80.9 bpm | SpO2=98.2% | Temp=37.21C | Activity=rest
+[DATA]  2026-03-15T18:38:17Z | Priya (F, age=52, region=coastal_south) | HR=73.0 bpm | SpO2=98.5% | Temp=37.13C | Activity=rest
+[DATA]  2026-03-15T18:38:17Z | Rohan (M, age=22, region=highland) | HR=66.7 bpm | SpO2=97.1% | Temp=36.68C | Activity=rest
+[DATA]  2026-03-15T18:38:17Z | Aarav (M, age=34, region=north_plains) | HR=74.7 bpm | SpO2=98.0% | Temp=37.06C | Activity=rest
+[DATA]  2026-03-15T18:38:19Z | Rohan (M, age=22, region=highland) | HR=65.5 bpm | SpO2=96.7% | Temp=36.61C | Activity=rest
+[DATA]  2026-03-15T18:38:18Z | Priya (F, age=52, region=coastal_south) | HR=91.0 bpm | SpO2=98.0% | Temp=37.02C | Activity=rest
+[DATA]  2026-03-15T18:38:19Z | Aarav (M, age=34, region=north_plains) | HR=73.9 bpm | SpO2=97.7% | Temp=36.92C | Activity=rest
+[DATA]  2026-03-15T18:38:20Z | Rohan (M, age=22, region=highland) | HR=70.4 bpm | SpO2=97.7% | Temp=36.58C | Activity=rest
+[DATA]  2026-03-15T18:38:20Z | Priya (F, age=52, region=coastal_south) | HR=80.4 bpm | SpO2=98.5% | Temp=36.94C | Activity=rest
+[DATA]  2026-03-15T18:38:20Z | Aarav (M, age=34, region=north_plains) | HR=92.4 bpm | SpO2=97.9% | Temp=36.87C | Activity=walk
+[DATA]  2026-03-15T18:38:21Z | Rohan (M, age=22, region=highland) | HR=69.0 bpm | SpO2=97.7% | Temp=36.49C | Activity=rest
+[DATA]  2026-03-15T18:38:21Z | Priya (F, age=52, region=coastal_south) | HR=79.1 bpm | SpO2=98.6% | Temp=37.01C | Activity=rest
+[DATA]  2026-03-15T18:38:22Z | Aarav (M, age=34, region=north_plains) | HR=96.9 bpm | SpO2=97.7% | Temp=37.00C | Activity=walk
+[DATA]  2026-03-15T18:38:23Z | Priya (F, age=52, region=coastal_south) | HR=71.3 bpm | SpO2=98.2% | Temp=37.02C | Activity=rest
+[DATA]  2026-03-15T18:38:23Z | Rohan (M, age=22, region=highland) | HR=76.6 bpm | SpO2=97.1% | Temp=36.40C | Activity=rest
+[DATA]  2026-03-15T18:38:23Z | Aarav (M, age=34, region=north_plains) | HR=98.1 bpm | SpO2=97.4% | Temp=36.97C | Activity=walk
+[DATA]  2026-03-15T18:38:24Z | Priya (F, age=52, region=coastal_south) | HR=85.2 bpm | SpO2=97.7% | Temp=37.11C | Activity=rest
+[DATA]  2026-03-15T18:38:25Z | Rohan (M, age=22, region=highland) | HR=68.9 bpm | SpO2=97.1% | Temp=36.44C | Activity=rest
+[DATA]  2026-03-15T18:38:25Z | Aarav (M, age=34, region=north_plains) | HR=101.9 bpm | SpO2=97.4% | Temp=36.98C | Activity=walk
+[ALERT] 2026-03-15T18:38:25Z | Priya (F, age=52, region=coastal_south) | HR=151.5 bpm | SpO2=89.5% | Temp=36.81C | Activity=rest | Score=-0.69400 | Drivers: hr_reserve_pct(-1.050), heart_rate(-1.031), rolling_hr_mean(-0.775) | [93mInsight: Unusually high heart rate detected while resting. This could be caused by dehydration, stress, or caffeine. Please sit quietly and drink water.[0m
+[ALERT] 2026-03-15T18:38:26Z | Rohan (M, age=22, region=highland) | HR=64.4 bpm | SpO2=96.2% | Temp=36.87C | Activity=rest | Score=-0.58412 | Drivers: temp_deviation(-1.224), body_temperature(-1.070), spo2(-0.666) | [93mInsight: Unusual physiological pattern detected. Your body is behaving slightly differently than your normal baseline.[0m
+[DATA]  2026-03-15T18:38:27Z | Aarav (M, age=34, region=north_plains) | HR=106.1 bpm | SpO2=97.6% | Temp=36.96C | Activity=walk
+[DATA]  2026-03-15T18:38:27Z | Priya (F, age=52, region=coastal_south) | HR=80.2 bpm | SpO2=97.9% | Temp=36.98C | Activity=rest
+[DATA]  2026-03-15T18:38:28Z | Rohan (M, age=22, region=highland) | HR=106.2 bpm | SpO2=97.5% | Temp=36.63C | Activity=walk
+[DATA]  2026-03-15T18:38:28Z | Aarav (M, age=34, region=north_plains) | HR=86.7 bpm | SpO2=97.6% | Temp=37.12C | Activity=walk
+[DATA]  2026-03-15T18:38:28Z | Priya (F, age=52, region=coastal_south) | HR=80.3 bpm | SpO2=97.8% | Temp=36.91C | Activity=rest
+[DATA]  2026-03-15T18:38:29Z | Rohan (M, age=22, region=highland) | HR=98.5 bpm | SpO2=96.3% | Temp=36.69C | Activity=walk
+[DATA]  2026-03-15T18:38:30Z | Aarav (M, age=34, region=north_plains) | HR=141.0 bpm | SpO2=97.1% | Temp=36.96C | Activity=walk
+[DATA]  2026-03-15T18:38:30Z | Priya (F, age=52, region=coastal_south) | HR=82.5 bpm | SpO2=98.5% | Temp=37.13C | Activity=rest
+[DATA]  2026-03-15T18:38:31Z | Rohan (M, age=22, region=highland) | HR=92.5 bpm | SpO2=96.7% | Temp=36.64C | Activity=walk
+[DATA]  2026-03-15T18:38:31Z | Aarav (M, age=34, region=north_plains) | HR=90.4 bpm | SpO2=96.7% | Temp=36.96C | Activity=walk
+[DATA]  2026-03-15T18:38:32Z | Priya (F, age=52, region=coastal_south) | HR=75.3 bpm | SpO2=98.3% | Temp=37.11C | Activity=rest
+[DATA]  2026-03-15T18:38:32Z | Rohan (M, age=22, region=highland) | HR=98.8 bpm | SpO2=96.9% | Temp=36.46C | Activity=walk
+[ALERT] 2026-03-15T18:38:33Z | Aarav (M, age=34, region=north_plains) | HR=94.6 bpm | SpO2=97.5% | Temp=37.18C | Activity=walk | Score=-0.57277 | Drivers: body_temperature(-0.969), temp_deviation(-0.694), activity_encoded(-0.440) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:33Z | Priya (F, age=52, region=coastal_south) | HR=72.5 bpm | SpO2=97.4% | Temp=36.96C | Activity=rest
+[ALERT] 2026-03-15T18:38:33Z | Rohan (M, age=22, region=highland) | HR=139.0 bpm | SpO2=89.4% | Temp=36.73C | Activity=walk | Score=-0.61588 | Drivers: hr_reserve_pct(-1.089), heart_rate(-0.995), spo2(-0.938) | [93mInsight: Significant drop in blood oxygen detected. Please stop your current activity, sit down, and take deep breaths.[0m
+[DATA]  2026-03-15T18:38:34Z | Aarav (M, age=34, region=north_plains) | HR=88.8 bpm | SpO2=97.5% | Temp=36.95C | Activity=walk
+[ALERT] 2026-03-15T18:38:35Z | Aarav (M, age=34, region=north_plains) | HR=106.1 bpm | SpO2=98.0% | Temp=36.91C | Activity=walk | Score=-0.56096 | Drivers: hr_reserve_pct(-0.868), heart_rate(-0.815), activity_encoded(-0.663) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:35Z | Rohan (M, age=22, region=highland) | HR=122.4 bpm | SpO2=96.0% | Temp=36.59C | Activity=run
+[DATA]  2026-03-15T18:38:35Z | Priya (F, age=52, region=coastal_south) | HR=81.9 bpm | SpO2=98.0% | Temp=36.98C | Activity=rest
+[DATA]  2026-03-15T18:38:37Z | Aarav (M, age=34, region=north_plains) | HR=89.7 bpm | SpO2=98.0% | Temp=36.92C | Activity=walk
+[DATA]  2026-03-15T18:38:37Z | Rohan (M, age=22, region=highland) | HR=91.5 bpm | SpO2=97.6% | Temp=36.64C | Activity=walk
+[DATA]  2026-03-15T18:38:37Z | Priya (F, age=52, region=coastal_south) | HR=109.0 bpm | SpO2=97.5% | Temp=37.06C | Activity=walk
+[DATA]  2026-03-15T18:38:38Z | Rohan (M, age=22, region=highland) | HR=96.2 bpm | SpO2=96.5% | Temp=36.76C | Activity=walk
+[DATA]  2026-03-15T18:38:38Z | Aarav (M, age=34, region=north_plains) | HR=101.4 bpm | SpO2=97.2% | Temp=36.95C | Activity=walk
+[DATA]  2026-03-15T18:38:39Z | Rohan (M, age=22, region=highland) | HR=90.7 bpm | SpO2=97.0% | Temp=36.67C | Activity=walk
+[DATA]  2026-03-15T18:38:39Z | Priya (F, age=52, region=coastal_south) | HR=101.8 bpm | SpO2=97.9% | Temp=37.03C | Activity=walk
+[DATA]  2026-03-15T18:38:40Z | Aarav (M, age=34, region=north_plains) | HR=97.3 bpm | SpO2=97.7% | Temp=37.10C | Activity=walk
+[DATA]  2026-03-15T18:38:40Z | Rohan (M, age=22, region=highland) | HR=89.0 bpm | SpO2=97.0% | Temp=36.68C | Activity=walk
+[DATA]  2026-03-15T18:38:41Z | Priya (F, age=52, region=coastal_south) | HR=87.4 bpm | SpO2=98.3% | Temp=36.93C | Activity=rest
+[DATA]  2026-03-15T18:38:41Z | Aarav (M, age=34, region=north_plains) | HR=105.4 bpm | SpO2=97.9% | Temp=37.02C | Activity=walk
+[DATA]  2026-03-15T18:38:42Z | Rohan (M, age=22, region=highland) | HR=92.5 bpm | SpO2=96.6% | Temp=36.65C | Activity=walk
+[DATA]  2026-03-15T18:38:43Z | Aarav (M, age=34, region=north_plains) | HR=91.9 bpm | SpO2=98.2% | Temp=37.05C | Activity=walk
+[DATA]  2026-03-15T18:38:42Z | Priya (F, age=52, region=coastal_south) | HR=80.0 bpm | SpO2=98.2% | Temp=37.16C | Activity=rest
+[DATA]  2026-03-15T18:38:43Z | Rohan (M, age=22, region=highland) | HR=84.7 bpm | SpO2=97.2% | Temp=36.68C | Activity=walk
+[DATA]  2026-03-15T18:38:44Z | Aarav (M, age=34, region=north_plains) | HR=83.5 bpm | SpO2=96.9% | Temp=36.84C | Activity=walk
+[DATA]  2026-03-15T18:38:44Z | Priya (F, age=52, region=coastal_south) | HR=79.6 bpm | SpO2=98.0% | Temp=37.05C | Activity=rest
+[DATA]  2026-03-15T18:38:44Z | Rohan (M, age=22, region=highland) | HR=68.7 bpm | SpO2=97.4% | Temp=36.64C | Activity=rest
+[DATA]  2026-03-15T18:38:45Z | Priya (F, age=52, region=coastal_south) | HR=80.5 bpm | SpO2=98.5% | Temp=37.23C | Activity=rest
+[DATA]  2026-03-15T18:38:45Z | Aarav (M, age=34, region=north_plains) | HR=95.7 bpm | SpO2=97.3% | Temp=37.00C | Activity=walk
+[DATA]  2026-03-15T18:38:46Z | Rohan (M, age=22, region=highland) | HR=71.9 bpm | SpO2=97.0% | Temp=36.59C | Activity=rest
+[DATA]  2026-03-15T18:38:47Z | Priya (F, age=52, region=coastal_south) | HR=80.9 bpm | SpO2=98.2% | Temp=37.05C | Activity=rest
+[ALERT] 2026-03-15T18:38:47Z | Aarav (M, age=34, region=north_plains) | HR=147.1 bpm | SpO2=97.6% | Temp=36.98C | Activity=run | Score=-0.59117 | Drivers: hr_reserve_pct(-1.346), heart_rate(-1.171), activity_encoded(-1.128) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:48Z | Rohan (M, age=22, region=highland) | HR=71.9 bpm | SpO2=97.5% | Temp=36.71C | Activity=rest
+[ALERT] 2026-03-15T18:38:49Z | Aarav (M, age=34, region=north_plains) | HR=120.3 bpm | SpO2=97.0% | Temp=36.98C | Activity=run | Score=-0.56395 | Drivers: activity_encoded(-0.953), heart_rate(-0.813), hr_reserve_pct(-0.715) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:49Z | Priya (F, age=52, region=coastal_south) | HR=73.7 bpm | SpO2=98.6% | Temp=37.19C | Activity=rest
+[DATA]  2026-03-15T18:38:49Z | Rohan (M, age=22, region=highland) | HR=71.1 bpm | SpO2=97.0% | Temp=36.62C | Activity=rest
+[ALERT] 2026-03-15T18:38:50Z | Aarav (M, age=34, region=north_plains) | HR=130.0 bpm | SpO2=97.9% | Temp=36.88C | Activity=run | Score=-0.58572 | Drivers: activity_encoded(-1.123), hr_reserve_pct(-1.055), heart_rate(-1.027) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:51Z | Priya (F, age=52, region=coastal_south) | HR=79.4 bpm | SpO2=97.9% | Temp=37.06C | Activity=rest
+[DATA]  2026-03-15T18:38:51Z | Rohan (M, age=22, region=highland) | HR=67.6 bpm | SpO2=97.6% | Temp=36.66C | Activity=rest
+[ALERT] 2026-03-15T18:38:52Z | Aarav (M, age=34, region=north_plains) | HR=128.0 bpm | SpO2=97.0% | Temp=36.79C | Activity=run | Score=-0.60667 | Drivers: hr_reserve_pct(-0.794), activity_encoded(-0.790), heart_rate(-0.704) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:52Z | Priya (F, age=52, region=coastal_south) | HR=112.1 bpm | SpO2=97.7% | Temp=37.16C | Activity=walk
+[DATA]  2026-03-15T18:38:53Z | Aarav (M, age=34, region=north_plains) | HR=105.3 bpm | SpO2=97.6% | Temp=37.04C | Activity=walk
+[DATA]  2026-03-15T18:38:52Z | Rohan (M, age=22, region=highland) | HR=65.4 bpm | SpO2=97.1% | Temp=36.77C | Activity=rest
+[DATA]  2026-03-15T18:38:54Z | Priya (F, age=52, region=coastal_south) | HR=103.9 bpm | SpO2=98.3% | Temp=37.06C | Activity=walk
+[ALERT] 2026-03-15T18:38:54Z | Aarav (M, age=34, region=north_plains) | HR=104.4 bpm | SpO2=98.3% | Temp=37.00C | Activity=walk | Score=-0.57116 | Drivers: hr_reserve_pct(-0.815), heart_rate(-0.757), rolling_hr_mean(-0.672) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:38:54Z | Rohan (M, age=22, region=highland) | HR=68.9 bpm | SpO2=97.0% | Temp=36.95C | Activity=rest
+[DATA]  2026-03-15T18:38:55Z | Priya (F, age=52, region=coastal_south) | HR=106.1 bpm | SpO2=98.1% | Temp=37.03C | Activity=walk
+[DATA]  2026-03-15T18:38:55Z | Aarav (M, age=34, region=north_plains) | HR=73.8 bpm | SpO2=98.3% | Temp=37.00C | Activity=rest
+[DATA]  2026-03-15T18:38:56Z | Rohan (M, age=22, region=highland) | HR=70.5 bpm | SpO2=97.2% | Temp=36.60C | Activity=rest
+[DATA]  2026-03-15T18:38:57Z | Aarav (M, age=34, region=north_plains) | HR=70.7 bpm | SpO2=97.7% | Temp=36.88C | Activity=rest
+[DATA]  2026-03-15T18:38:57Z | Priya (F, age=52, region=coastal_south) | HR=96.7 bpm | SpO2=97.9% | Temp=37.09C | Activity=walk
+[DATA]  2026-03-15T18:38:57Z | Rohan (M, age=22, region=highland) | HR=67.4 bpm | SpO2=96.9% | Temp=36.66C | Activity=rest
+[DATA]  2026-03-15T18:38:58Z | Priya (F, age=52, region=coastal_south) | HR=110.2 bpm | SpO2=98.3% | Temp=37.18C | Activity=walk
+[DATA]  2026-03-15T18:38:58Z | Aarav (M, age=34, region=north_plains) | HR=68.9 bpm | SpO2=98.1% | Temp=36.90C | Activity=rest
+[DATA]  2026-03-15T18:38:59Z | Rohan (M, age=22, region=highland) | HR=65.9 bpm | SpO2=97.3% | Temp=36.65C | Activity=rest
+[DATA]  2026-03-15T18:38:59Z | Priya (F, age=52, region=coastal_south) | HR=93.9 bpm | SpO2=97.1% | Temp=37.06C | Activity=walk
+[DATA]  2026-03-15T18:39:00Z | Aarav (M, age=34, region=north_plains) | HR=73.3 bpm | SpO2=98.2% | Temp=37.11C | Activity=rest
+[ALERT] 2026-03-15T18:39:01Z | Priya (F, age=52, region=coastal_south) | HR=118.5 bpm | SpO2=97.0% | Temp=37.24C | Activity=run | Score=-0.61551 | Drivers: activity_encoded(-0.995), hr_reserve_pct(-0.677), heart_rate(-0.647) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:39:01Z | Rohan (M, age=22, region=highland) | HR=66.9 bpm | SpO2=96.9% | Temp=36.82C | Activity=rest
+[DATA]  2026-03-15T18:39:01Z | Aarav (M, age=34, region=north_plains) | HR=65.8 bpm | SpO2=98.0% | Temp=36.99C | Activity=rest
+[DATA]  2026-03-15T18:39:02Z | Rohan (M, age=22, region=highland) | HR=73.6 bpm | SpO2=97.5% | Temp=36.62C | Activity=rest
+[DATA]  2026-03-15T18:39:02Z | Priya (F, age=52, region=coastal_south) | HR=134.8 bpm | SpO2=96.9% | Temp=36.99C | Activity=run
+[DATA]  2026-03-15T18:39:03Z | Aarav (M, age=34, region=north_plains) | HR=74.7 bpm | SpO2=98.1% | Temp=37.05C | Activity=rest
+[DATA]  2026-03-15T18:39:03Z | Rohan (M, age=22, region=highland) | HR=82.3 bpm | SpO2=97.0% | Temp=36.79C | Activity=walk
+[DATA]  2026-03-15T18:39:03Z | Priya (F, age=52, region=coastal_south) | HR=118.5 bpm | SpO2=98.0% | Temp=36.96C | Activity=walk
+[DATA]  2026-03-15T18:39:04Z | Aarav (M, age=34, region=north_plains) | HR=75.8 bpm | SpO2=97.9% | Temp=36.98C | Activity=rest
+[DATA]  2026-03-15T18:39:05Z | Rohan (M, age=22, region=highland) | HR=102.1 bpm | SpO2=96.5% | Temp=36.77C | Activity=walk
+[DATA]  2026-03-15T18:39:05Z | Priya (F, age=52, region=coastal_south) | HR=103.2 bpm | SpO2=98.4% | Temp=37.05C | Activity=walk
+[DATA]  2026-03-15T18:39:06Z | Rohan (M, age=22, region=highland) | HR=86.1 bpm | SpO2=97.3% | Temp=36.43C | Activity=walk
+[DATA]  2026-03-15T18:39:06Z | Aarav (M, age=34, region=north_plains) | HR=75.8 bpm | SpO2=98.9% | Temp=37.00C | Activity=rest
+[DATA]  2026-03-15T18:39:06Z | Priya (F, age=52, region=coastal_south) | HR=113.6 bpm | SpO2=97.4% | Temp=36.88C | Activity=walk
+[DATA]  2026-03-15T18:39:07Z | Aarav (M, age=34, region=north_plains) | HR=33.7 bpm | SpO2=97.5% | Temp=37.03C | Activity=rest
+[DATA]  2026-03-15T18:39:07Z | Rohan (M, age=22, region=highland) | HR=98.4 bpm | SpO2=97.1% | Temp=36.61C | Activity=walk
+[DATA]  2026-03-15T18:39:08Z | Priya (F, age=52, region=coastal_south) | HR=112.6 bpm | SpO2=97.4% | Temp=36.99C | Activity=walk
+[DATA]  2026-03-15T18:39:08Z | Aarav (M, age=34, region=north_plains) | HR=72.2 bpm | SpO2=97.4% | Temp=36.88C | Activity=rest
+[DATA]  2026-03-15T18:39:09Z | Rohan (M, age=22, region=highland) | HR=99.5 bpm | SpO2=97.5% | Temp=36.59C | Activity=walk
+[DATA]  2026-03-15T18:39:09Z | Priya (F, age=52, region=coastal_south) | HR=116.5 bpm | SpO2=97.7% | Temp=36.99C | Activity=walk
+[ALERT] 2026-03-15T18:39:10Z | Aarav (M, age=34, region=north_plains) | HR=152.8 bpm | SpO2=88.2% | Temp=36.94C | Activity=rest | Score=-0.66151 | Drivers: hr_reserve_pct(-1.386), heart_rate(-1.232), spo2(-1.176) | [93mInsight: Significant drop in blood oxygen detected. While resting, this is unusual. If you feel short of breath, seek medical advice.[0m
+[ALERT] 2026-03-15T18:39:11Z | Rohan (M, age=22, region=highland) | HR=80.4 bpm | SpO2=98.1% | Temp=36.79C | Activity=rest | Score=-0.57515 | Drivers: spo2_drop(-1.199), spo2(-0.983), body_temperature(-0.485) | [93mInsight: Unusual physiological pattern detected. Your body is behaving slightly differently than your normal baseline.[0m
+[DATA]  2026-03-15T18:39:11Z | Priya (F, age=52, region=coastal_south) | HR=88.5 bpm | SpO2=97.2% | Temp=37.01C | Activity=walk
+[DATA]  2026-03-15T18:39:12Z | Aarav (M, age=34, region=north_plains) | HR=71.0 bpm | SpO2=97.7% | Temp=37.08C | Activity=rest
+[DATA]  2026-03-15T18:39:12Z | Rohan (M, age=22, region=highland) | HR=72.3 bpm | SpO2=97.4% | Temp=36.70C | Activity=rest
+[DATA]  2026-03-15T18:39:13Z | Priya (F, age=52, region=coastal_south) | HR=104.7 bpm | SpO2=97.5% | Temp=37.19C | Activity=walk
+[DATA]  2026-03-15T18:39:13Z | Aarav (M, age=34, region=north_plains) | HR=73.6 bpm | SpO2=98.2% | Temp=36.93C | Activity=rest
+[DATA]  2026-03-15T18:39:14Z | Rohan (M, age=22, region=highland) | HR=72.3 bpm | SpO2=97.3% | Temp=36.53C | Activity=rest
+[DATA]  2026-03-15T18:39:15Z | Aarav (M, age=34, region=north_plains) | HR=71.1 bpm | SpO2=97.6% | Temp=36.82C | Activity=rest
+[ALERT] 2026-03-15T18:39:15Z | Priya (F, age=52, region=coastal_south) | HR=129.6 bpm | SpO2=95.9% | Temp=40.37C | Activity=walk | Score=-0.66844 | Drivers: temp_deviation(-0.836), body_temperature(-0.798), hr_reserve_pct(-0.737) | [93mInsight: Elevated body temperature detected. Please monitor for fever and stay hydrated.[0m
+[DATA]  2026-03-15T18:39:15Z | Rohan (M, age=22, region=highland) | HR=71.2 bpm | SpO2=96.7% | Temp=36.72C | Activity=rest
+[DATA]  2026-03-15T18:39:16Z | Priya (F, age=52, region=coastal_south) | HR=84.0 bpm | SpO2=98.4% | Temp=37.17C | Activity=rest
+[DATA]  2026-03-15T18:39:16Z | Aarav (M, age=34, region=north_plains) | HR=67.4 bpm | SpO2=97.5% | Temp=36.90C | Activity=rest
+[DATA]  2026-03-15T18:39:17Z | Rohan (M, age=22, region=highland) | HR=72.2 bpm | SpO2=98.0% | Temp=36.74C | Activity=rest
+[DATA]  2026-03-15T18:39:17Z | Aarav (M, age=34, region=north_plains) | HR=75.0 bpm | SpO2=97.6% | Temp=37.06C | Activity=rest
+[DATA]  2026-03-15T18:39:17Z | Priya (F, age=52, region=coastal_south) | HR=77.3 bpm | SpO2=98.5% | Temp=37.03C | Activity=rest
+[DATA]  2026-03-15T18:39:18Z | Rohan (M, age=22, region=highland) | HR=81.5 bpm | SpO2=97.4% | Temp=36.52C | Activity=rest
+[DATA]  2026-03-15T18:39:19Z | Aarav (M, age=34, region=north_plains) | HR=90.1 bpm | SpO2=97.6% | Temp=36.97C | Activity=walk
+[DATA]  2026-03-15T18:39:19Z | Priya (F, age=52, region=coastal_south) | HR=79.7 bpm | SpO2=98.5% | Temp=37.19C | Activity=rest
+[DATA]  2026-03-15T18:39:20Z | Rohan (M, age=22, region=highland) | HR=97.6 bpm | SpO2=97.0% | Temp=36.64C | Activity=walk
+[ALERT] 2026-03-15T18:39:20Z | Aarav (M, age=34, region=north_plains) | HR=97.7 bpm | SpO2=97.4% | Temp=40.14C | Activity=walk | Score=-0.60624 | Drivers: body_temperature(-1.486), temp_deviation(-1.377), activity_encoded(-0.380) | [93mInsight: Elevated body temperature detected. Please monitor for fever and stay hydrated.[0m
+[DATA]  2026-03-15T18:39:21Z | Priya (F, age=52, region=coastal_south) | HR=78.3 bpm | SpO2=97.9% | Temp=37.22C | Activity=rest
+[DATA]  2026-03-15T18:39:22Z | Aarav (M, age=34, region=north_plains) | HR=99.5 bpm | SpO2=97.0% | Temp=36.98C | Activity=walk
+[DATA]  2026-03-15T18:39:22Z | Priya (F, age=52, region=coastal_south) | HR=80.8 bpm | SpO2=97.6% | Temp=37.07C | Activity=rest
+[DATA]  2026-03-15T18:39:22Z | Rohan (M, age=22, region=highland) | HR=98.6 bpm | SpO2=97.0% | Temp=36.55C | Activity=walk
+[DATA]  2026-03-15T18:39:23Z | Aarav (M, age=34, region=north_plains) | HR=105.9 bpm | SpO2=97.3% | Temp=36.91C | Activity=walk
+[DATA]  2026-03-15T18:39:23Z | Priya (F, age=52, region=coastal_south) | HR=81.1 bpm | SpO2=98.0% | Temp=37.12C | Activity=rest
+[DATA]  2026-03-15T18:39:23Z | Rohan (M, age=22, region=highland) | HR=101.6 bpm | SpO2=96.9% | Temp=36.71C | Activity=walk
+[DATA]  2026-03-15T18:39:24Z | Priya (F, age=52, region=coastal_south) | HR=102.1 bpm | SpO2=97.5% | Temp=37.04C | Activity=walk
+[ALERT] 2026-03-15T18:39:24Z | Aarav (M, age=34, region=north_plains) | HR=117.7 bpm | SpO2=97.2% | Temp=36.81C | Activity=run | Score=-0.57491 | Drivers: activity_encoded(-0.974), heart_rate(-0.765), hr_reserve_pct(-0.759) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:39:25Z | Rohan (M, age=22, region=highland) | HR=97.3 bpm | SpO2=96.4% | Temp=36.51C | Activity=walk
+[ALERT] 2026-03-15T18:39:26Z | Aarav (M, age=34, region=north_plains) | HR=140.8 bpm | SpO2=97.8% | Temp=37.01C | Activity=run | Score=-0.57643 | Drivers: hr_reserve_pct(-1.068), activity_encoded(-1.052), heart_rate(-0.983) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[ALERT] 2026-03-15T18:39:26Z | Priya (F, age=52, region=coastal_south) | HR=105.3 bpm | SpO2=96.6% | Temp=37.19C | Activity=walk | Score=-0.61469 | Drivers: spo2_drop(-0.902), spo2(-0.556), rolling_hr_mean(-0.530) | [93mInsight: Your heart rate is responding unusually to your current activity level. Pace yourself.[0m
+[DATA]  2026-03-15T18:39:27Z | Rohan (M, age=22, region=highland) | HR=103.8 bpm | SpO2=96.9% | Temp=36.73C | Activity=walk
+[DATA]  2026-03-15T18:39:27Z | Aarav (M, age=34, region=north_plains) | HR=111.8 bpm | SpO2=97.4% | Temp=37.06C | Activity=run
+[DATA]  2026-03-15T18:39:27Z | Priya (F, age=52, region=coastal_south) | HR=82.4 bpm | SpO2=97.0% | Temp=37.14C | Activity=rest
+[DATA]  2026-03-15T18:39:28Z | Aarav (M, age=34, region=north_plains) | HR=76.0 bpm | SpO2=97.9% | Temp=37.00C | Activity=rest
+[DATA]  2026-03-15T18:39:28Z | Rohan (M, age=22, region=highland) | HR=69.0 bpm | SpO2=96.9% | Temp=36.72C | Activity=rest
+[DATA]  2026-03-15T18:39:28Z | Priya (F, age=52, region=coastal_south) | HR=76.7 bpm | SpO2=97.9% | Temp=37.01C | Activity=rest
+[DATA]  2026-03-15T18:39:29Z | Aarav (M, age=34, region=north_plains) | HR=71.1 bpm | SpO2=97.6% | Temp=37.02C | Activity=rest
+[DATA]  2026-03-15T18:39:30Z | Priya (F, age=52, region=coastal_south) | HR=80.4 bpm | SpO2=97.7% | Temp=37.14C | Activity=rest
+[DATA]  2026-03-15T18:39:30Z | Rohan (M, age=22, region=highland) | HR=74.5 bpm | SpO2=97.0% | Temp=36.59C | Activity=rest
+[DATA]  2026-03-15T18:39:31Z | Aarav (M, age=34, region=north_plains) | HR=63.7 bpm | SpO2=98.1% | Temp=36.94C | Activity=rest
